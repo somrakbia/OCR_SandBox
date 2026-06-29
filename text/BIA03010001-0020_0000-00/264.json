@@ -1,0 +1,22 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 264,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "handwritten_note",
+  "header": { "ref_note": "BIA 3-1/2 กล่อง 1", "title": "อธิจิตตาโยคธรรม.", "page_mark": "[264]" },
+  "outline": [],
+  "handwriting": [
+    { "text": "อธิจิตตาโยคธรรม.", "ink": "blue", "location": "กลาง ตัวอักษรใหญ่", "confidence": 0.55, "note": "ชื่อชุด/ปก ตัวบรรจงใหญ่" },
+    { "text": "รวมทั้งหมด หรือที่.   เท่ ฯ พุทธ ๒๕๑๔.", "ink": "blue", "location": "บรรทัดล่าง", "confidence": 0.3, "note": "อ่านไม่ชัด ส่วนกลางขาด" }
+  ],
+  "main_text": "BIA 3-1/2 กล่อง 1   [264]\n[ลายมือ น้ำเงิน] อธิจิตตาโยคธรรม.\n[ลายมือ น้ำเงิน] รวมทั้งหมด หรือที่. เท่ ฯ พุทธ ๒๕๑๔.",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.4,
+  "needs_review": true,
+  "warnings": ["เป็นแถบ/ขอบกระดาษบาง (น่าจะส่วนหัว/ปกของชุดบัตร) มีรูเย็บกระดาษ", "บรรทัดล่างอ่านไม่ชัด ส่วนกลางถูกบังหรือขาด", "ปี ๒๕๑๔ = พ.ศ. 2514"]
+}
