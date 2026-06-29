@@ -1,0 +1,26 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 125,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": { "ref_note": "BIA3.1/2 กล่อง1", "title": "สรณาคมน์ มาจากอะไร ?", "page_mark": "[125]" },
+  "outline": [
+    "สรณาคมน์ มาจากอะไร ?",
+    "(๑) มาจาก ความกลัว, ความงมงาย, การเอาอย่าง,",
+    "(๒) เหตุผล, หารศึกษา, การบวชเรียน,",
+    "(๓) ความเห็นแจ้ง ซึมซาบ จนพอใจ ปลาบปลื้ม,"
+  ],
+  "handwriting": [
+    { "text": "BIA3.1/2 กล่อง1", "ink": "pencil", "location": "top-left margin", "confidence": 0.5, "note": "รหัสอ้างอิงเขียนเพิ่ม" }
+  ],
+  "main_text": "[ลายมือ BIA3.1/2 กล่อง1] สรณาคมน์ มาจากอะไร ? [125]\n(๑) มาจาก ความกลัว, ความงมงาย, การเอาอย่าง,\n(๒) เหตุผล, หารศึกษา, การบวชเรียน,\n(๓) ความเห็นแจ้ง ซึมซาบ จนพอใจ ปลาบปลื้ม,",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.85,
+  "needs_review": false,
+  "warnings": ["หน้ามีเนื้อหาน้อย ส่วนล่างว่าง", "คำว่า หารศึกษา อาจเป็น การศึกษา ตามต้นฉบับพิมพ์ตก", "ข้ามแถบ caption ของหอจดหมายเหตุที่ขอบล่าง"]
+}
