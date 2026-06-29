@@ -1,0 +1,25 @@
+{
+  "itemId": "e41ca5da-00a1-5260-83f6-573ed29ea2a3",
+  "referenceCode": "BIA03010001-0010_0000-00",
+  "page": 62,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": { "ref_note": "BIA3.1/1 กล่อง 1", "title": "", "page_mark": "[62]" },
+  "outline": [
+    "เด็กสมัยนี้ ถูกมอมด้วยประชาธิปไตย และ กามสุข.",
+    "เด็กสมัยก่อน \" ความยอม และ ความเสียสละ (ของโบราณเต็มที)"
+  ],
+  "handwriting": [
+    { "text": "BIA3.1/1 กล่อง 1", "ink": "blue", "location": "top-left corner", "confidence": 0.5, "note": "ref code" },
+    { "text": "(ต่อ)", "ink": "pencil", "location": "top-right, before page mark", "confidence": 0.3, "note": "อ่านไม่ชัด อาจเป็น (ต่อ)" }
+  ],
+  "main_text": "[ลายมือ blue: BIA3.1/1 กล่อง 1]  [62]\nเด็กสมัยนี้ ถูกมอมด้วยประชาธิปไตย และ กามสุข.\nเด็กสมัยก่อน \" ความยอม และ ความเสียสละ (ของโบราณเต็มที)\n[เนื้อหาส่วนที่เหลือของหน้านี้เป็นรอยหมึกทะลุจากด้านหลัง (bleed-through) ปรากฏเป็นตัวอักษรกลับด้าน อ่านไม่ได้]",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.4,
+  "needs_review": true,
+  "warnings": ["หน้านี้ส่วนใหญ่เป็นรอยหมึกทะลุจากด้านหลัง (mirror/bleed-through) อ่านไม่ได้ ยกเว้น 2 บรรทัดบนสุด", "อาจเป็นด้านหลังของบัตรที่พิมพ์ไม่เต็มหน้า"]
+}
