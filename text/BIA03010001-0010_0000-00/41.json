@@ -1,0 +1,28 @@
+{
+  "itemId": "e41ca5da-00a1-5260-83f6-573ed29ea2a3",
+  "referenceCode": "BIA03010001-0010_0000-00",
+  "page": 41,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": { "ref_note": "BIA3.1/1 กล่อง 1", "title": "หัวข้อ ปาฐกถา หรือบรรยายพิเศษ 2512 (ระหว่างพักอยู่ในกรุงเทพ ฯ)", "page_mark": "[41]" },
+  "outline": [
+    "หัวข้อ",
+    "ปาฐกถา หรือบรรยายพิเศษ 2512",
+    "(ระหว่างพักอยู่ในกรุงเทพ ฯ)",
+    "(1) ตกนรกกันไปพลาง หานิพพานกันไปพลาง. (สวนอุศม 28 มค.12)",
+    "(2)",
+    "(3)",
+    "(4)",
+    "(5)"
+  ],
+  "handwriting": [],
+  "main_text": "BIA3.1/1 กล่อง 1\n[41]\nหัวข้อ\nปาฐกถา หรือบรรยายพิเศษ 2512\n(ระหว่างพักอยู่ในกรุงเทพ ฯ)\n(1) ตกนรกกันไปพลาง หานิพพานกันไปพลาง. (สวนอุศม 28 มค.12)\n(2)\n(3)\n(4)\n(5)",
+  "language": ["th"],
+  "has_handwriting": false,
+  "handwriting_skipped": false,
+  "confidence": 0.85,
+  "needs_review": false,
+  "warnings": ["รายการ (2)-(5) เว้นว่างไว้", "ข้ามแถบ caption หอจดหมายเหตุที่ขอบล่าง"]
+}
