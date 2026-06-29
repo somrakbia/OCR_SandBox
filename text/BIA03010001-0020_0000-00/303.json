@@ -1,0 +1,27 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 303,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": { "ref_note": "BIA3.1/2 กล่อง 1", "title": "ล้ออายุ ๒๕๑๔ (กัณฑ์เช้า) โครงอธิบาย", "page_mark": "[303]" },
+  "outline": [
+    "เทศน์กัณฑ์เช้า : ปรารภ สถานการณ์ของโลก ขณะนั้น / สถานการณ์ ของตนเอง",
+    "เทศน์กัณฑ์บ่าย. : ปรารภ เรื่องเกี่ยวกับ ภิกษุสามเณร / ความเป็นไปในวัดวาอาราม",
+    "เทศน์กัณฑ์ค่ำ : ปรารภ เรื่องของทายกทายิกา",
+    "สรุปเรื่อง ทั้งหมด."
+  ],
+  "handwriting": [
+    { "text": "BIA3.1/2 กล่อง 1", "ink": "pencil", "location": "top-left", "confidence": 0.8, "note": "รหัสอ้างอิง" },
+    { "text": "[303]", "ink": "pencil", "location": "top-right", "confidence": 0.9, "note": "เลขหน้า" }
+  ],
+  "main_text": "ล้ออายุ ๒๕๑๔ (กัณฑ์เช้า)\nโครงอธิบาย.\n\nเทศน์กัณฑ์เช้า   ปรารภ  สถานการณ์ของโลก ขณะนั้น / สถานการณ์ ของตนเอง\n\nเทศน์กัณฑ์บ่าย.  ปรารภ  เรื่องเกี่ยวกับ ภิกษุสามเณร / ความเป็นไปในวัดวาอาราม\n\nเทศน์กัณฑ์ค่ำ   ปรารภ  เรื่องของทายกทายิกา\n\nสรุปเรื่อง ทั้งหมด.",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.85,
+  "needs_review": false,
+  "warnings": ["ข้ามแถบ caption หอจดหมายเหตุที่ขอบล่าง"]
+}

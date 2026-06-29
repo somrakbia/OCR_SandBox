@@ -1,0 +1,24 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 310,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "handwritten_note",
+  "header": { "ref_note": "BIA 3.1/2 กล่อง 1", "title": "สวนโมกข์", "page_mark": "[310]" },
+  "outline": [],
+  "handwriting": [
+    { "text": "BIA 3.1/2 กล่อง 1", "ink": "pencil", "location": "top-left", "confidence": 0.8, "note": "รหัสอ้างอิง" },
+    { "text": "[310]", "ink": "pencil", "location": "top-right", "confidence": 0.9, "note": "เลขหน้า" },
+    { "text": "สวนโมกข์", "ink": "red", "location": "หัวกระดาษ กลาง", "confidence": 0.5, "note": "หัวข้อหมึกแดง" },
+    { "text": "หงดูแลว่าสวนโมกพ์ เป็น สิ่งบ่ารับ ?เได้ - พอใจมา ?ก. - สิ่งบีร้าวอด ? ทนรับ ?บาน ของท่า ?!", "ink": "red", "location": "ข้อ 1 (มีเส้นวงล้อม/ลูกศร)", "confidence": 0.2, "note": "ลายมือแดงเขียนหวัดมาก มีเส้นวงล้อมและลูกศร อ่านไม่แน่นอนมาก" }
+  ],
+  "main_text": "[ลายมือแดง] สวนโมกข์\n[ลายมือแดง] หงดูแลว่าสวนโมกพ์ เป็น สิ่งบ่ารับ ?เได้ - พอใจมา ?ก. - สิ่งบีร้าวอด ? ทนรับ ?บาน ของท่า ?!",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.2,
+  "needs_review": true,
+  "warnings": ["หน้านี้เป็นรอยทะลุจากด้านหลัง (bleed-through/ตัวพิมพ์กลับด้าน) อ่านเนื้อพิมพ์ไม่ได้และไม่ได้ถอด", "เนื้อหาหลักเป็นลายมือหมึกแดงทับบนรอยทะลุ เขียนหวัดและซีด อ่านไม่แน่นอนมาก ถอดได้น้อย", "ข้ามแถบ caption หอจดหมายเหตุที่ขอบล่าง"]
+}

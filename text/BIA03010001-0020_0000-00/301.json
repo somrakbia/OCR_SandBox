@@ -1,0 +1,27 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 301,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "handwritten_note",
+  "header": { "ref_note": "BIA3.1/2 กล่อง 1", "title": "", "page_mark": "[301]" },
+  "outline": [],
+  "handwriting": [
+    { "text": "BIA3.1/2 กล่อง 1", "ink": "pencil", "location": "top-left", "confidence": 0.85, "note": "รหัสอ้างอิงเขียนด้วยดินสอ" },
+    { "text": "[301]", "ink": "pencil", "location": "top-right", "confidence": 0.9, "note": "เลขหน้า" },
+    { "text": "B.", "ink": "pencil", "location": "top-right (วงกลม)", "confidence": 0.5, "note": "อักษรในวงกลม อ่านไม่ชัด อาจเป็น B หรือ ๓" },
+    { "text": "รวมมีมิตรภาพ ?", "ink": "blue", "location": "บนสุด ใต้รหัส", "confidence": 0.3, "note": "ลายมือหมึกน้ำเงิน อ่านไม่ชัด" },
+    { "text": "ก.", "ink": "blue", "location": "ซ้าย เหนือข้อความหลัก", "confidence": 0.6, "note": "หัวข้อ ก." },
+    { "text": "หนังสือตำแหน่งดอกโมกมาน ? พิมพ์สื่อ ? เป็นสิ่งของล้ำค่า ? ที่ ประทับของพระพุทธองค์ ?", "ink": "blue", "location": "กลางหน้า", "confidence": 0.25, "note": "ลายมือหมึกน้ำเงินตัวใหญ่ ซีดและอ่านยากมาก ถอดได้ไม่แน่นอน" },
+    { "text": "[ลายเซ็น]", "ink": "blue", "location": "ขวากลางหน้า ใต้ข้อความ", "confidence": 0.2, "note": "ลายเซ็น อ่านไม่ออก" }
+  ],
+  "main_text": "[ลายมือ] BIA3.1/2 กล่อง 1   [301]  (B.)\n[ลายมือ] รวมมีมิตรภาพ ?\n[ลายมือ] ก.\n[ลายมือ] หนังสือตำแหน่งดอกโมกมาน ? / พิมพ์สื่อ ? เป็นสิ่งของล้ำค่า ? / ที่ประทับของพระพุทธองค์ ?\n[ลายมือ] [ลายเซ็น]",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.3,
+  "needs_review": true,
+  "warnings": ["ทั้งหน้าเป็นลายมือหมึกน้ำเงินซีดและเขียนหวัด อ่านได้ไม่แน่นอน", "มีลายเซ็นที่อ่านไม่ออก", "ข้ามแถบ caption หอจดหมายเหตุที่ขอบล่าง"]
+}

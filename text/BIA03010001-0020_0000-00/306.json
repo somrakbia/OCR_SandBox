@@ -1,0 +1,27 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 306,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "handwritten_note",
+  "header": { "ref_note": "BIA3.1/2 กล่อง 1", "title": "ทรอดข้าว.", "page_mark": "[306]" },
+  "outline": [],
+  "handwriting": [
+    { "text": "BIA3.1/2 กล่อง 1", "ink": "pencil", "location": "top-left", "confidence": 0.8, "note": "รหัสอ้างอิง" },
+    { "text": "[306]", "ink": "pencil", "location": "top-right", "confidence": 0.9, "note": "เลขหน้า" },
+    { "text": "ทรอดข้าว.", "ink": "red", "location": "หัวกระดาษ กลาง (ขีดเส้นใต้)", "confidence": 0.45, "note": "หัวข้อหมึกแดง ขีดเส้นใต้ อ่านไม่แน่นอน" },
+    { "text": "ทรอดข้าว ของ พระพุทธ พระเยซู", "ink": "red", "location": "ข้อ 1", "confidence": 0.4, "note": "ลายมือแดง" },
+    { "text": "กิน อะไร ? กินอาหารปานสติ (ขั้นที่สี่)", "ink": "red", "location": "ใต้ข้อ 1", "confidence": 0.35, "note": "ลายมือแดง อ่านไม่แน่นอน" },
+    { "text": "ประหยัด 300 ล้านบาท + ฯลฯ", "ink": "red", "location": "ข้อ 2", "confidence": 0.45, "note": "ลายมือแดง; ตัวเลข 300 = สามร้อย" },
+    { "text": "เรา พอใจที่ รูปไว ? ทำนมมา ครบรอบปี.", "ink": "red", "location": "ข้อ 3 (มีวงกลมล้อมรอบ)", "confidence": 0.3, "note": "ลายมือแดง มีเส้นวงกลมล้อม อ่านไม่แน่นอน" }
+  ],
+  "main_text": "[ลายมือแดง] ทรอดข้าว.\n[ลายมือแดง] ทรอดข้าว ของ พระพุทธ พระเยซู\n[ลายมือแดง] กิน อะไร ? กินอาหารปานสติ (ขั้นที่สี่)\n[ลายมือแดง] ประหยัด 300 ล้านบาท + ฯลฯ\n[ลายมือแดง] เรา พอใจที่ รูปไว ? ทำนมมา ครบรอบปี.",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.3,
+  "needs_review": true,
+  "warnings": ["หน้านี้เป็นรอยทะลุจากด้านหลัง (bleed-through/ตัวพิมพ์กลับด้าน) อ่านเนื้อพิมพ์ไม่ได้และไม่ได้ถอด", "เนื้อหาหลักเป็นลายมือหมึกแดงทับบนรอยทะลุ เขียนหวัดและซีด อ่านไม่แน่นอน", "ข้ามแถบ caption หอจดหมายเหตุที่ขอบล่าง"]
+}
