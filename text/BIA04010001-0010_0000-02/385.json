@@ -1,0 +1,20 @@
+{
+  "itemId": "88860a41-839f-5588-ae04-04adab61a862",
+  "referenceCode": "BIA04010001-0010_0000-02",
+  "page": 385,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "diary_entry",
+  "header": { "ref_note": "BIA04010001-0010_0000-02 หน้า 1-2 (3491) BIA4.1/1 กล่อง 1 ปก 02 หน้า 385", "date_th": "เสาร์ ๑๓ มีนา ๘๕", "time": "", "location": "โรงแรมรถไฟ เพ็ชรบุรี?", "page_mark": "[385]" },
+  "main_text": "เรื่อง ขอนวาย? ในเจ้าคุณ ธรรมนาท ฯ นคร ใต้\nเปน คณกรรมการเอก เชื่อได้เห้?นั่ง?ใน?วา?ระงน??\nและ อื่นๆ อีกกก, ๆๆ. ๑ แฟ?กอยู่?.\nถึงเพร? ๒ ทุ่ม ๒๐ นาที. พักหน?\nหนองสุปรุ?พรหมสิ?ภู? ได้รับทร?ต้อน รับ?และ\nเอาใจไร่? เปน อย่างดี? ห่?วาด? (ลูกเจ้าคุณเทพ?\nพระ ทาเจริญ พรภักดี?) เปนกระหาคนใหม่? ของ คุณ\nหลวง. ช่วย เหลือ จัดแจง ห้อง? พัก ใน?ด้วยตน\nเอง. สนทนา กึง?เจ้าของ?ท่าน ?ระวัตการรม?\nนี้แล จน ๔ ทุ่ม จึงออกไป!\nจารวัด ร่วม ๖? ทม?\n\nเสาร์ ๑๓ มีนา ๘๕ โรงแรมรถไฟ\nก่อนเช้า เที่ยวชมต้น?ไม้ กลายป?ไป? เพ็ชรบุรี\nในงน?นองศรี?ฯ กึง?เจ้าของท่าน. ได้เวลา เดินมา\nรถนี้ สองคน กับคุณหลองศรี? อิ่ม?มาห้?วาด, และ\nรับนิมนต์เรื่อง?ทเข้?า ๑ ถ้วย ขนม ๔ ๕ แผ่น ของ\nคุณหลอง. ห้?ฉันทแ?ฟ? จอนเชื้อ?เห้?รถนี้.\nห้?รถนี้ พบคนเพรี?ยว มารอรง? และ ปะกาด?",
+  "handwriting": [
+    { "text": "diary entry with date header เสาร์ ๑๓ มีนา ๘๕", "ink": "blue/black", "location": "full page", "confidence": 0.45, "note": "cursive Thai, bleed-through; lower half is new entry dated Saturday 13 March (B.E. 2485)" }
+  ],
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.45,
+  "needs_review": true,
+  "warnings": ["heavy bleed-through from reverse page", "cursive handwriting hard to read", "many words uncertain, marked with ?", "location reading 'เพ็ชรบุรี/โรงแรมรถไฟ' uncertain"]
+}

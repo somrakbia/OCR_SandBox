@@ -1,0 +1,20 @@
+{
+  "itemId": "88860a41-839f-5588-ae04-04adab61a862",
+  "referenceCode": "BIA04010001-0010_0000-02",
+  "page": 388,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "diary_entry",
+  "header": { "ref_note": "BIA04010001-0010_0000-02 หน้า 1-2 (3494) BIA4.1/1 กล่อง 1 ปก 02 หน้า 388", "date_th": "จันทร์ ๑๕ มิถุนา ๘๕", "time": "", "location": "ปทุมคงคา กรุงเทพ", "page_mark": "[388]" },
+  "main_text": "ฝาก?พวง?มาลัย? ผู้คนที่ๆ? มา?เทพ ด้วย ๒ พวง.\nหัวค่ำ มหากลง? มนาเฟือ? มาทา?\nโดยทาง?จาก มาหขึ้น? ที่ๆ?ที่รถเรี?ยบ?\nคุยกับเรี? จวน เวลานอน.\nจารวัด ร่วม ๒๖ น.\n\nจันทร์ ๑๕ มิถุนา ๘๕ ปทุมคงคา กรุงเทพ.\nก่อนเช้า เจ้?คุณ?ลด?พรี?? พร้อมทั้ง คุณ หลวง?\nและบุตร ๓ คน มา พร้อมทั้ง เด้?อาหาร?กล่อง?\nเข้าแล้ว ?ท่านหนึ่งเง่น? จนมา นินเพล\nขนม. ห่อไปเอาเข้?คุณ?ทกาก? สนทนา กัน\nตามเคย กระทั่ง?ตรเฉวย? ที่?พัก ไปนั่ง คน. นอก?ที่?\nสะทพ. และ เพาะ? ไม่ พบ ความ เอๆ ๑๑ ตั้งตัว?ของ\nพระเณรและเด็ก? คน? ไม่เปน ทร เรื่อง?เรียบ?เก่อด?\nท่าน ให้ น้อง? เลามอ?ภณ?แจ ให้?ลง? กรว่า?\nพร่งนี้? เวลาทับ?ไป? แต่จะ?ฉับ?ไป? นิ. เพต?\nเที่ยงเพื่อรับ?แขก? ทรฉัน? และทางอง? ว่าง?\nไว้ ที่?มี่ฉัน? ๑๖ น. จึงกลับจากเจ้?คุณ.\nเย็น เจ้าคุณ ?ดพรี? มาอีก? คุยจ?นเข่?",
+  "handwriting": [
+    { "text": "diary continuation and new entry จันทร์ ๑๕ มิถุนา ๘๕", "ink": "blue/black", "location": "full page", "confidence": 0.45, "note": "new entry Monday 15; month reads มิถุนา (June) but context suggests March sequence — uncertain" }
+  ],
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.45,
+  "needs_review": true,
+  "warnings": ["heavy bleed-through from reverse page", "cursive handwriting hard to read", "many words uncertain, marked with ?", "month in date header ('มิถุนา') uncertain given March sequence on prior pages"]
+}

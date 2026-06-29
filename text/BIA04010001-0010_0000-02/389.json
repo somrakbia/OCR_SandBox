@@ -1,0 +1,20 @@
+{
+  "itemId": "88860a41-839f-5588-ae04-04adab61a862",
+  "referenceCode": "BIA04010001-0010_0000-02",
+  "page": 389,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "diary_entry",
+  "header": { "ref_note": "BIA04010001-0010_0000-02 หน้า 1-2 (3495) BIA4.1/1 กล่อง 1 ปก 02 หน้า 389", "date_th": "อังคาร ๑๖ มิถุนา ๘๕", "time": "", "location": "ปทุมคงคา กรุงเทพ", "page_mark": "[389]" },
+  "main_text": "คุณ?ลฤทธา? มา คุยกัน กระทั่ง เย็นมาก\nจารวัด ร่วม ๒๖ น.\n\nอังคาร ๑๖ มิถุนา ๘๕ ปทุมคงคา กรุงเทพ.\nก่อนเช้า เจ้?คุณสะรต? มา และเอ?ปิ?มาทาง?\nคุยกัน กระทั่งเอวงนั?น แล?ฉันแล้ว. กลับไปไม่ที่ใว้\nเข?ปนนั?น ตรวจ? แต่?ทรเรีย? จะ?ให้?ใหม่? ชี่งดอก\nใหญ่กว่า. เลาเรื่อ?อ?อิ?น เอาๆ?ลู? ผัดๆ?อย่าง?ดี?\nบมก่อ?. เรื่องรถ มีแม่?ค?พอ พูด? เป?น เช่น มน\nเอาไปทำจริง. ทั้งที่ได้?เงิน?น้อย? เห้?คน ยัง\nกล้า?ปอวรเรด? ไป?ใน?รถ. นำเน้?ใจ. คุย?เรื่อง?ขอว?ิ?\nหื?ทาย แตเเ?ว่า? พวกเพก? หากใน?เชื่อ?ว่า สี?นแก่ง?\nทำไป ?ท่อยอ?\nฉันแล้ว ออกไปธุระ ห้องๆ?เดินตะ? ที่เว้?คน\nอนทาง?ใว้. (คณ ๑๑ ห้อง ๖๓ ?ต่อรถคน?) มี\nเว้?คน กฤษาษ? ตามไปพบ และ ดูร?หนึ่ง? ไม่?\nคุณ? ?ม่เคยรู้จัก? มา ก่อน บอกว่า ชื่อ เอี่ยม?ป?\nอยู่?รองเรือ? ช?อย?หนึ่ง? ตรง?ห้ามเห้?น พระ ?ทอ?ิ?นๆ?\nวิหาร? มาคุยด้วย จน เอวเพล.",
+  "handwriting": [
+    { "text": "diary continuation and new entry อังคาร ๑๖ มิถุนา ๘๕", "ink": "blue/black", "location": "full page", "confidence": 0.45, "note": "new entry Tuesday 16, ปทุมคงคา กรุงเทพ" }
+  ],
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.45,
+  "needs_review": true,
+  "warnings": ["heavy bleed-through from reverse page", "cursive handwriting hard to read", "many words uncertain, marked with ?", "month 'มิถุนา' uncertain"]
+}

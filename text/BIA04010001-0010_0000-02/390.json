@@ -1,0 +1,20 @@
+{
+  "itemId": "88860a41-839f-5588-ae04-04adab61a862",
+  "referenceCode": "BIA04010001-0010_0000-02",
+  "page": 390,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "diary_entry",
+  "header": { "ref_note": "BIA04010001-0010_0000-02 หน้า 1-2 (3496) BIA4.1/1 กล่อง 1 ปก 02 หน้า 390", "date_th": "พุธ ๑๗ มิถุนา ๘๕", "time": "", "location": "ปทุมคงคา ก.ท.", "page_mark": "[390]" },
+  "main_text": "เว้?คน กฤษาษ? ดู สี?รั่นมาก. แกลง?เรื่อง\nส่วนตัวไม่ปิด บัง. ใจ่อ่อน? สงสารคน นี้?\nตาใจ?ง่าย. สงรูปร้อย?แปด.\nเลยเช้าๆ? ฝนตก \"จึ\"?, พูด ความ ใม่ใจ\nอันๆ? ?ปร?? ใช้?ได้?.\nกลับ?มาคณะ ใน ตอนเท่ง? เชื้อ?อบนรี? และ?\nนัก?ก่อน. เห็นเว้?วัดดลคพรี? มา ดูกัน หน่อย\nหากันไปยังบ้?นแทน? ตรอกสุนทร?จิงั?? ถนน\nที่ ผ่านไปทาง บัวๆ?ใม? ฟ? อยู่ที่นั?คุณ?นล่ง?เพ?\nตรวงทับ? โดยเรียบ? รวมพรี?. ?ม่พบ คนนอก\nเอ?ไปยังบ้?นเตา. ตามไปพ?นเขา ไปยัง? ?ก?คนนั้น?\nกู้ใม่อยู่. (เวลากลงปริด?.\nออก?ไปคุยกับเว้?คน จน ?องน?เถวง?\nกรับ มา จริด. จึงเที่ยวจอบ?นถ์?.\nจารวัด ร่วม ๒๖ น.\n\nพุธ ๑๗ มิถุนา ๘๕ ปทุมคงคา ก.ท.\nเข้าแล้ว คุยกันเล่น กระทั่ง อู?แทน?วุ?ม?มา บอก\nว่า ทุ ๑๓.๓๐.ๆๆ. จะรับ?ไปพบ มูร?ิ?เจ้?หาทร?\nคุยกัน ด้วยเรื่อง พระ, เรื่องพหายบ?ติ? สงี?, รังวรม?",
+  "handwriting": [
+    { "text": "diary continuation and new entry พุธ ๑๗ มิถุนา ๘๕", "ink": "blue/black", "location": "full page", "confidence": 0.45, "note": "new entry Wednesday 17, ปทุมคงคา ก.ท." }
+  ],
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.45,
+  "needs_review": true,
+  "warnings": ["heavy bleed-through from reverse page", "cursive handwriting hard to read", "many words uncertain, marked with ?", "month 'มิถุนา' uncertain"]
+}

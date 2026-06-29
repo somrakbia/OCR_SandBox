@@ -1,0 +1,20 @@
+{
+  "itemId": "88860a41-839f-5588-ae04-04adab61a862",
+  "referenceCode": "BIA04010001-0010_0000-02",
+  "page": 387,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "diary_entry",
+  "header": { "ref_note": "BIA04010001-0010_0000-02 หน้า 1-2 (3493) BIA4.1/1 กล่อง 1 ปก 02 หน้า 387", "date_th": "", "time": "", "location": "", "page_mark": "[387]" },
+  "main_text": "เช้ามืดชำระกาย ในห้อง?น้ำ?ของโรงแรม แล้ว\nออกไปธุระนี้. นินเช้าในรถไฟ ดุงกัก?นอง?ดี?\nตลอดเจวเพล. จวนเพล มืดรู?น้อง? นั่งรวมทาง?\nด้วย?. นินเพล ลงันนั่? เหมือน?ตอนเช้า ชั่ง?\nมี เห้? กับเห้?แห้ง ๑ จาน นั่ง? จาน เช่น?\nนั้น ทุกตวว?.\nท้นน้อย? ยงขง? จน นินเท้?พลาง? ปิด\nยังไม่ลง? ในรถไฟ กลางวันแจ้ง?\nรถถึงกรุงเทพฯ ร่อม ๑๔ น. โดยเรี?ยเวลา\nไฟ ร่วมใจชั่วโมง. เร?จะการ?ใว้ โดยเตาๆ?\nเพาะ บอดต่อ? จะมารอกนั?นั้น แล?เปรี?ยน\nเปนรถเพล? ดนะ? ที่โดยปร?ง? เลย?ไม่ได้\nไปปร?ง? โดยกะ?จะใว้ กลางคืน? ?ท่าง? แยก\nจาก?คนรุณ?? ที่รถนี้? มนชื่น? ทด มากด?\nหื?วัดด้วย. ?ดดรู?หนึ่ง? คนสองอน?ตามมา\nหื?วัด โดยเตาๆ?ร่ม?ม? พอดี? พบ เพ?ใต้\nรู้เรื่องกัน? ?ม่ต้องไปบ?ดิ?ก.\nพักผ่อน จนเย็น เพาะรู้สึกเพรี?ย และ\nปวด สีรษะ ?ขิด?. เช่น เตาดมรอ?พรี? มา\nรถ คุยกัน เกี่ยวชั่วโมง? จึงกอง?? คนหนึ่ง?",
+  "handwriting": [
+    { "text": "diary continuation about train journey to Bangkok", "ink": "blue/black", "location": "full page", "confidence": 0.45, "note": "describes morning, train ride and arrival at Bangkok ~14:00" }
+  ],
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.45,
+  "needs_review": true,
+  "warnings": ["heavy bleed-through from reverse page", "cursive handwriting hard to read", "many words uncertain, marked with ?", "no date header (continuation)"]
+}

@@ -1,0 +1,20 @@
+{
+  "itemId": "88860a41-839f-5588-ae04-04adab61a862",
+  "referenceCode": "BIA04010001-0010_0000-02",
+  "page": 386,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "diary_entry",
+  "header": { "ref_note": "BIA04010001-0010_0000-02 หน้า 1-2 (3492) BIA4.1/1 กล่อง 1 ปก 02 หน้า 386", "date_th": "อาทิตย์ ๑๔ มีนา ๘๕", "time": "", "location": "ปทุมคงคา กรุงเทพ", "page_mark": "[386]" },
+  "main_text": "หวาย? ถึงคน รัก?ๆ, รวนรถออก มี?ตัวตาม\nมา พบ ?นกัน?ครหนึ่ง? ?ทองกอด?.\nนิน?เช้า ในรถ ใจ?ความ เอื้อเฟื้อ?ขอบ?คุณ\nคุณ?. และคุยกัน ก่อนฉัน อย่างปิดทุ?ว? เปรียบ?\nความเข้าใจ? และฟัง?ความคิด?เห็น แก่กันแล?กันอน?\nเกี่ยวกับ คน?ทั่ว?ฝ?ก?ต่อกับ? ?น?ปฏิ?วารีงภาพ?\nท่านพระดูวัดดิเดชา? มานั่งคุยด้วย จน\nเพล นินนมส?กับวัดชา\nเข่? ที่วาลี?ประกอบ ฝ่อง? มีเส้นทางศรีจ?น\nมา ไปกรุงเทพ ร่วมกัน เลย?มี? ๒๓?ค?ดี? กัน\nรวมกับ ที่?นอนๆ พบ.\n?เพ็ชร? รู้? ร่วม ๓ ทุ่ม มาโรงแรมรถไฟ?\nกับ คุณหลวง? เรียงต่อเช้า เรือ?เวลา?เช้า ๑ หลัง\n๒ เตียง เพื่อเหรือ?ๆ เดือน เข้าไป ๑ เดียง?\nเปนเงิน ?วงนอน?เต็มแก่?\nจารวัด ร่วม ๒๖ ?\n\nอาทิตย์ ๑๔ มีนา ๘๕ ปทุมคงคา กรุงเทพ\nวันนี้ เปนวัน ออกเดินทาง จากเพ็ชร?บุ?รี?\nถึง กรุงเทพฯ.",
+  "handwriting": [
+    { "text": "diary continuation and new entry อาทิตย์ ๑๔ มีนา ๘๕", "ink": "blue/black", "location": "full page", "confidence": 0.45, "note": "new entry at bottom dated Sunday 14 March, ปทุมคงคา กรุงเทพ" }
+  ],
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.45,
+  "needs_review": true,
+  "warnings": ["heavy bleed-through from reverse page", "cursive handwriting hard to read", "many words uncertain, marked with ?"]
+}

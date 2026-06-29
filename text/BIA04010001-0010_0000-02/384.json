@@ -1,0 +1,20 @@
+{
+  "itemId": "88860a41-839f-5588-ae04-04adab61a862",
+  "referenceCode": "BIA04010001-0010_0000-02",
+  "page": 384,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "diary_entry",
+  "header": { "ref_note": "BIA04010001-0010_0000-02 หน้า 1-2 (3490) BIA4.1/1 กล่อง 1 ปก 02 หน้า 384", "date_th": "", "time": "", "location": "", "page_mark": "[384]" },
+  "main_text": "...กิจการพระทางอง? ที่เกี่ยวกับธุระเส้นทาง.\nเพลแล้ว ก. ก็ให้กลับ ให้ท่านอน เห่าไปไว้\nเชื้อว่าจะ?ปิดธุระทางกรุงเทพ นานเส้นไป จะได้\nดำเนิน ทร ก่อสร้าง? กันไป พลางได้. ทัด กับ\nเทพสรรพ? ได้ช่วยเหลือ? ไ?ทรวัด. เรื่องแล้ว\nชี้แจงเรื่องทางอง? ให้ท่าน?นฟัง? เนื่อง กับ?ทร\nนี้ท่าน จะช่วยเอา? ก?? และทำธุระงานให้?นพระ\nนทับ?ที่เกา?อยู่.\nพอวันเวลา ปานรุ่ม? เอาทอง ค?? มาไว้ใต้\nช่วงอมเรือ?ก?? เชื่อใช้ กลางทาง น?ช่อยใจ?แก-\nลากวย? จริง?ขึ้นมา เชื่อ?ร่อ, พ้อน? ก็ตาม\nไปรง? ศรุทนี้?. มีพระ? ว?วงค์? รวมทั่ว?\nท่าน ?น และท่านปลอด? ด้วยงามไปร่.\nรถเช้า เกือบชั่วโมง. ทัด, มนชื่น,\nร่วม ทาง? เส้นทาง มาด้วย. ในรถ พงคมเพลีย?\nไปทกทร ?นอง? เอาใว้คุยกัน วันถึง? เทพ?.\nคนพวก? ?ก?ใน?นั? ?มา กันไป? ในรถยังหนึ่ง?\nน?อ?เลี่ย? รวม ๔? คน ?ง?ให้. ?ก?คนในรู้\nเปน?นแทน? นคร? เชื่อ? ?ย?เปี่ยม? บงงิ?ษ์?\nพอ? เรื่อง วัดกุ? ?าๆ? ได้ดี?. ทรง? ?? ?? เพล?",
+  "handwriting": [
+    { "text": "main body of diary entry", "ink": "blue/black", "location": "full page", "confidence": 0.45, "note": "cursive Thai handwriting, heavy bleed-through from reverse, many words illegible" }
+  ],
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.45,
+  "needs_review": true,
+  "warnings": ["heavy show-through/bleed-through from reverse page obscures text", "cursive handwriting hard to read", "many words uncertain, marked with ?", "no clear date header on this page (continuation of entry)"]
+}

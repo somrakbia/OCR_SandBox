@@ -1,0 +1,20 @@
+{
+  "itemId": "88860a41-839f-5588-ae04-04adab61a862",
+  "referenceCode": "BIA04010001-0010_0000-02",
+  "page": 393,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "diary_entry",
+  "header": { "ref_note": "BIA04010001-0010_0000-02 หน้า 1-2 (3499) BIA4.1/1 กล่อง 1 ปก 02 หน้า 393", "date_th": "", "time": "", "location": "", "page_mark": "[393]" },
+  "main_text": "เลยขึ้นไปปานบน? ชึงจัดขึ้น?เชื่อ?ต้อนรับ? เปน\nพิเศษ เชื่อ?วานนี้?เอง. ทพ?จากคนวุฒิ?ว่า?\nท่านสั่งจัดเปนพิเศษ รังเตยๆ? ก็เห็นได้ ตรง\nที่ อยู่ติด กับ ห้องนอน? เชื่อเอ?ประ?ๆ?ปิด\nออก ก็จะ?เห็นความ เปนอยู่ทาง?ในเรื่ง? ?ปดตร?\nที่แยก เอา?ได้?เป็น?. ห้องที่จัดนี้ กว้างและ\nว่าง ปูพรม?ผืนใหญ่ สี ฟ้า โต๊ะ เก้?หวาย? อ้อน?\nสีฟ้า. เห?นึ่ง?ลง? ที่ตอนนั่ง? ทาง หนึ่ง?ต่าง?\nหนนตั้งไปทางประๆ? ห้องนอน. นินทับ?ใว้?ขับใด?\nที่ขึ้นๆ?.\nคนสั้นๆ?ขึ้นมา ไปเริ่มประๆ?บอกคน ที่\nอยู่ทั่ง?ใน คนทักทกา? กลายเปน อันมิ่ง? อ้อน เปน\nไม่ด้วยๆ?ก. ออกพบ ทามถึงว่า? มาวกไหน?\nและ อ?ไรๆ? อีก ๒-๓ คำ แล้ว ก็กลับเท่าไป. ?หนนนั้น?\nกระชับ?ขอดตา? \"วรรา?ของ\" ท่าน? แล?เจ้?\nเย็น แต่อก?ทรู้?, ประๆ?เดน?.\nอีกตก? ๒ ทาที? ท่านอยู่ ฉ้ารเร?จ ขึ้น มา\nจากชั้น ล่าง. ตามทาง ที่ เกรินนา?. ทกทาย? เอ?ใจ?\nๆๆ?บเฟี้ยม? เช่น มากๆ?เชื่อใร? ฝนเต?น? แล้วจึง\nเริ่ม ทร ธรรนทา?",
+  "handwriting": [
+    { "text": "diary continuation about reception room and visit", "ink": "blue/black", "location": "full page", "confidence": 0.42, "note": "continuation, describes a specially arranged room with blue carpet and rattan furniture" }
+  ],
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.42,
+  "needs_review": true,
+  "warnings": ["heavy bleed-through from reverse page", "cursive handwriting hard to read", "many words uncertain, marked with ?", "no date header (continuation)"]
+}

@@ -1,0 +1,20 @@
+{
+  "itemId": "88860a41-839f-5588-ae04-04adab61a862",
+  "referenceCode": "BIA04010001-0010_0000-02",
+  "page": 391,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "diary_entry",
+  "header": { "ref_note": "BIA04010001-0010_0000-02 หน้า 1-2 (3497) BIA4.1/1 กล่อง 1 ปก 02 หน้า 391", "date_th": "", "time": "", "location": "", "page_mark": "[391]" },
+  "main_text": "ทรรักเงิน?ขน? ของ พุทธสารน?ลิ?ชน, เว้?อิ?น กอบ\nไป. ตอนทับ? กลับมาอีก ใจ่ความว่า\nบุรา?จิจ?ากทร? นัด?ให้ไปพบ วันพรุ่ง? นี้? ๑๔\nน.\nออกไป คณะ นอก อยู่?ที่? นั่น จนเย็น\nคนรักทา? ไปมา ดู? ด้วย ?หมเรื่อง, เกรี้ยว?\nธมมชาดิ? คือ?อะไร, และเอาใว้บนยอดความ ใน\nลังของต่อมรุดดี?, ๑ ทมได้ตก. ได้ฝากหนึ่ง?\nรือ จมมทร? ที่ผากมาให้เชื่อ กระดาด? ขอบ?ใจ?ได้\nต่อแทน?ตา? ๑.๑.๒\nทอนค่ำ เว้?คนเจ้?อาวาส จันมง?? คุยกัน\nดู?หนึ่ง? ด้วยเรื่อง เบ?ตเรด? เช่น ?ไมเดข?ทาง?ใหม่?\nปั?นทั่ว เพราะ? กลับเท่าคณะ ๑ ร่วม?\n๒๐ น. ดรินตอ?? นัด หน่อย? วาน ร.พ.? น้อย?\nนอก คุยกับ ทล และคน อื่นๆ พลาง. เริ่ก ร่วม\n๒ น.\nจารวัด ๒๖ น. เศษ?",
+  "handwriting": [
+    { "text": "diary continuation about temple/duties", "ink": "blue/black", "location": "full page", "confidence": 0.43, "note": "continuation of entry, no date header" }
+  ],
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.43,
+  "needs_review": true,
+  "warnings": ["heavy bleed-through from reverse page", "cursive handwriting hard to read", "many words uncertain, marked with ?", "no date header (continuation)"]
+}
