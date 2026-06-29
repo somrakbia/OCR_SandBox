@@ -1,0 +1,54 @@
+{
+  "itemId": "e41ca5da-00a1-5260-83f6-573ed29ea2a3",
+  "referenceCode": "BIA03010001-0010_0000-00",
+  "page": 38,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": {
+    "ref_note": "BIA3.1/1 กล่อง 1",
+    "title": "ธรรม ที่อยู่ในรูปของการปฏิบัติหน้าที่(ต่อ)",
+    "page_mark": "[38]"
+  },
+  "outline": [
+    "ตุลาการ 9/2512 — 6 มีค. 12",
+    "๐. ทบทวน",
+    "๐.(บรรยายโดยหัวข้อที่ค้างอธิบายมาแต่ครั้งที่ 8 ซึ่งอธิบายไม่หมดเพราะ หมดเวลาเสียก่อน, ตั้งแต่หัวข้อว่า \"รูปโครงของการปฏิบัติ\" จนถึง หัวข้อว่า \"เราอาจปฏิบัติศาสนาได้โดยไม่มีการขัดกันระหว่างศาสนา\", เสร็จแล้วต่อด้วย หัวข้อข้างล่าง ถ้ายังมีเวลา. )",
+    "๐.  ......   .......   .......",
+    "๐."
+  ],
+  "handwriting": [
+    {
+      "text": "BIA3.1/1 กล่อง 1",
+      "ink": "blue",
+      "location": "top-left corner",
+      "confidence": 0.6,
+      "note": "archival reference code"
+    },
+    {
+      "text": "[38]",
+      "ink": "blue",
+      "location": "top-right corner",
+      "confidence": 0.7,
+      "note": "page number"
+    },
+    {
+      "text": "กก",
+      "ink": "red",
+      "location": "top-right, near date",
+      "confidence": 0.2,
+      "note": "small red mark, uncertain"
+    }
+  ],
+  "main_text": "BIA3.1/1 กล่อง 1 [38]\nตุลาการ 9/2512 — 6 มีค. 12\nธรรม ที่อยู่ในรูปของการปฏิบัติหน้าที่(ต่อ)\n๐. ทบทวน\n๐.(บรรยายโดยหัวข้อที่ค้างอธิบายมาแต่ครั้งที่ 8 ซึ่งอธิบายไม่หมดเพราะ หมดเวลาเสียก่อน, ตั้งแต่หัวข้อว่า \"รูปโครงของการปฏิบัติ\" จนถึง หัวข้อว่า \"เราอาจปฏิบัติศาสนาได้โดยไม่มีการขัดกันระหว่างศาสนา\", เสร็จแล้วต่อด้วย หัวข้อข้างล่าง ถ้ายังมีเวลา. )\n๐.  ......   .......   .......\n๐.",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.78,
+  "needs_review": false,
+  "warnings": [
+    "Sparse placeholder card; body mostly empty. Main typed lines are clear.",
+    "Bottom archival caption/watermark band intentionally skipped."
+  ]
+}

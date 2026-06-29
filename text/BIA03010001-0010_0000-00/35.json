@@ -1,0 +1,45 @@
+{
+  "itemId": "e41ca5da-00a1-5260-83f6-573ed29ea2a3",
+  "referenceCode": "BIA03010001-0010_0000-00",
+  "page": 35,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": {
+    "ref_note": "BIA3.1/1 กล่อง 1",
+    "title": "ธรรม ที่อยู่ในรูปของวัฒนธรรม (ต่อ) (ศาสนา)",
+    "page_mark": "[35]"
+  },
+  "outline": [
+    "ตุลาการ 7/2512 — 3 มีค. 12",
+    "๐. ทบทวน",
+    "๐. (อธิบายตามหัวข้อที่ค้างอธิบาย มาแต่ครั้งที่ 6 ตั้งแต่การเทียบคำว่า บาป, ไปจนถึง หัวใจของพุทธศาสนา) (อยู่ในกระดาษแผ่นสำหรับครั้งที่ 6 )"
+  ],
+  "handwriting": [
+    {
+      "text": "BIA3.1/1 กล่อง 1",
+      "ink": "blue",
+      "location": "top-left corner",
+      "confidence": 0.6,
+      "note": "archival reference code"
+    },
+    {
+      "text": "[35]",
+      "ink": "blue",
+      "location": "top-right corner",
+      "confidence": 0.7,
+      "note": "page number"
+    }
+  ],
+  "main_text": "BIA3.1/1 กล่อง 1 [35]\nตุลาการ 7/2512 — 3 มีค. 12\nธรรม ที่อยู่ในรูปของวัฒนธรรม (ต่อ) (ศาสนา)\n๐. ทบทวน\n๐. (อธิบายตามหัวข้อที่ค้างอธิบาย มาแต่ครั้งที่ 6 ตั้งแต่การเทียบคำว่า บาป, ไปจนถึง หัวใจของพุทธศาสนา) (อยู่ในกระดาษแผ่นสำหรับครั้งที่ 6 )",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.75,
+  "needs_review": false,
+  "warnings": [
+    "Sparse placeholder card; body is mostly empty. Main lines are typed and relatively clear.",
+    "Bottom archival caption/watermark band intentionally skipped."
+  ]
+}

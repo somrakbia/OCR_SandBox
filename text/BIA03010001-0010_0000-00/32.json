@@ -1,0 +1,89 @@
+{
+  "itemId": "e41ca5da-00a1-5260-83f6-573ed29ea2a3",
+  "referenceCode": "BIA03010001-0010_0000-00",
+  "page": 32,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": {
+    "ref_note": "BIA3.1/1 กล่อง 1",
+    "title": "ครั้งที่ 5 ธรรมในรูปของวัฒนธรรม (ต่อ)",
+    "page_mark": "[32]"
+  },
+  "outline": [
+    "สีลธรรม",
+    "๐ เราไม่ควรเอา\"จุกๆต้น\" ของสีลธรรม (MORAL LIFE OF MAN) หรือ การเปลี่ยนจาก animal behaviour ไปสู่ human conduct โดยพึ่งแต่เริ่มสิ่งเดียว เห็น ความเลว-ขาด-รัก-เมตตา-ใจกว้าง -เห็นไหมของ over sexed เป็นเหต.",
+    "๐ สีลธรรม ทำให้คนหาปัญหา หรือเป็นๆของสีลธรรม คือจริยปรัชญา (Ethics) เกิดจากการปฏิบัติ (Practice) ออกมาเป็นทฤษฎี (Theories) ที่หลัง, ในที่สุดก็พึ่งอยู่ในฐานะ \"พื้นฐานหนึ่งของอุดมคติ\" ของ สีลธรรมปัจจุบัน, กฎหมาย, ฯลฯ",
+    "๐ มูลเหตุและปัญหารากฐาน = 1.ชีวิตรอด (self-preservation) = 2.ชาดิ(หมู่,พงษ์)รอด (preservation of race) หรือ ในที่สุดได้แก่ \"เหมาะสมที่สุดในแหละจะรอด\" ของพวกวิทยาศาสตร นั่นเอง",
+    "๐ จริยปรัชญา : ซึ่งเป็นหลักเกณฑ์ทางสีลธรรม แห่งยุคปัจจุบัน. 5 หัวข้อ :-",
+    "(1) ความคิดสุดของแกท่บฤษ. (ชิมมิ่มไบนัม), เล็งถึงในฐานตัไ ไม่เกี่ยวกับคดอกฤษแล้ว. 1.ความสิงสุด, 2.ความเสมอสุงสมุ, 3.หนาท,เพอหนาท, 4.เมคคาสกล.",
+    "(2) ความรู้สำหรับมัดถกถความ. ต้อง เป็นหลักคี ก. ทุกคนยอมรับได้ IMPIRICISM ข. มีเหตุผลพอเพียง RATIONALISM ค. เข้าใจแจ่มแจ้ง โดยทันที INTUITIONISM",
+    "(3) สิทธิ์แห่งจ้บ ก. ทางศาสนา (Religious Sanction) ข. ทางการ เมือง (Political San.) ค. ทางสังคม (Social San.)",
+    "(4) โมคีฬ ก. ทางศาสนา (อยากสุขล้วงทุก) ข. ทางอูเมือง (อยากใบยานเมือง เจริญ ๆ) ค. ทางสังคม (กลัวมีว่าประชาทัณฑ)",
+    "(5)อิสระของความต้องการ (นักจริยรรมบทพวกใคำเน้นข้อนี้ ไม่พีจาริ่นๆ) ก. เอาตามใจตัวบางสวน Partial Self-Determination ข. ค่านิ้งหลักสีลธรรมบางส่วน Normative Philosophical Ethics. ในการณ์กับตัว, การหาเลี้ยงชีพ, การมีกาฬความสุงธรรม, เป็นเกณฑ.",
+    "๐ สรุป : ทางสีลธรรมมีหลักเกณฑ์บางอย่าง ไม่เท่ากันทางศาสนา."
+  ],
+  "handwriting": [
+    {
+      "text": "ขเศ3.1/1กล่อง 1",
+      "ink": "blue",
+      "location": "top-left corner",
+      "confidence": 0.45,
+      "note": "archival reference code"
+    },
+    {
+      "text": "[32]",
+      "ink": "blue",
+      "location": "top-right corner",
+      "confidence": 0.7,
+      "note": "page number"
+    },
+    {
+      "text": "(สากล)",
+      "ink": "red",
+      "location": "below title, after สีลธรรม",
+      "confidence": 0.5,
+      "note": "red ink subtitle note"
+    },
+    {
+      "text": "self-preservation",
+      "ink": "red",
+      "location": "mid-page, beside มูลเหตุ item 1",
+      "confidence": 0.6,
+      "note": "red ink English gloss"
+    },
+    {
+      "text": "preservation of race",
+      "ink": "red",
+      "location": "mid-page, beside item 2",
+      "confidence": 0.6,
+      "note": "red ink English gloss"
+    },
+    {
+      "text": "5",
+      "ink": "red",
+      "location": "in จริยปรัชญา line",
+      "confidence": 0.5,
+      "note": "red emphasis of count of items"
+    },
+    {
+      "text": "Partial Self-Determination / Normative Philosophical Ethics.",
+      "ink": "red",
+      "location": "item (5)",
+      "confidence": 0.55,
+      "note": "red ink English glosses"
+    }
+  ],
+  "main_text": "ขเศ3.1/1กล่อง 1 [32]\nครั้งที่ 5 ธรรมในรูปของวัฒนธรรม (ต่อ)\nสีลธรรม [ลายมือแดง (สากล)]\n๐ เราไม่ควรเอา\"จุกๆต้น\" ของสีลธรรม (MORAL LIFE OF MAN) หรือ การเปลี่ยนจาก animal behaviour ไปสู่ human conduct โดยพึ่งแต่เริ่มสิ่งเดียว เห็น ความเลว-ขาด-รัก-เมตตา-ใจกว้าง -เห็นไหมของ over sexed เป็นเหต.\n๐ สีลธรรม ทำให้คนหาปัญหา หรือเป็นๆของสีลธรรม คือจริยปรัชญา (Ethics) เกิดจากการปฏิบัติ (Practice) ออกมาเป็นทฤษฎี (Theories) ที่หลัง, ในที่สุดก็พึ่งอยู่ในฐานะ \"พื้นฐานหนึ่งของอุดมคติ\" ของ สีลธรรมปัจจุบัน, กฎหมาย, ฯลฯ\n๐ มูลเหตุและปัญหารากฐาน = 1.ชีวิตรอด (self-preservation) = 2.ชาดิ(หมู่,พงษ์)รอด (preservation of race) หรือ ในที่สุดได้แก่ \"เหมาะสมที่สุดในแหละจะรอด\" ของพวกวิทยาศาสตร นั่นเอง\n๐ จริยปรัชญา : ซึ่งเป็นหลักเกณฑ์ทางสีลธรรม แห่งยุคปัจจุบัน. 5 หัวข้อ :-\n(1) ความคิดสุดของแกท่บฤษ. (ชิมมิ่มไบนัม), เล็งถึงในฐานตัไ ไม่เกี่ยวกับคดอกฤษแล้ว. 1.ความสิงสุด, 2.ความเสมอสุงสมุ, 3.หนาท,เพอหนาท, 4.เมคคาสกล.\n(2) ความรู้สำหรับมัดถกถความ. ต้อง เป็นหลักคี ก. ทุกคนยอมรับได้ IMPIRICISM ข. มีเหตุผลพอเพียง RATIONALISM ค. เข้าใจแจ่มแจ้ง โดยทันที INTUITIONISM\n(3) สิทธิ์แห่งจ้บ ก. ทางศาสนา (Religious Sanction) ข. ทางการ เมือง (Political San.) ค. ทางสังคม (Social San.)\n(4) โมคีฬ ก. ทางศาสนา (อยากสุขล้วงทุก) ข. ทางอูเมือง (อยากใบยานเมือง เจริญ ๆ) ค. ทางสังคม (กลัวมีว่าประชาทัณฑ)\n(5)อิสระของความต้องการ (นักจริยรรมบทพวกใคำเน้นข้อนี้ ไม่พีจาริ่นๆ) ก. เอาตามใจตัวบางสวน Partial Self-Determination ข. ค่านิ้งหลักสีลธรรมบางส่วน Normative Philosophical Ethics. ในการณ์กับตัว, การหาเลี้ยงชีพ, การมีกาฬความสุงธรรม, เป็นเกณฑ.\n๐ สรุป : ทางสีลธรรมมีหลักเกณฑ์บางอย่าง ไม่เท่ากันทางศาสนา.",
+  "language": ["th", "en"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.42,
+  "needs_review": true,
+  "warnings": [
+    "Dense cursive Thai handwriting interspersed with English philosophy terms (Ethics, empiricism, rationalism, intuitionism, sanctions).",
+    "Several Thai phrases and the romanized terms are uncertain.",
+    "Bottom archival caption/watermark band intentionally skipped."
+  ]
+}
