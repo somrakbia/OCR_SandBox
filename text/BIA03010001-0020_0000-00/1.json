@@ -1,0 +1,32 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 1,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "other",
+  "header": { "ref_note": "ฮาก 3.1/2 กล่อง1", "title": "", "page_mark": "[๑]" },
+  "outline": [],
+  "handwriting": [
+    { "text": "สัมทัสเสตพ\\n(บก.)\\nพชเน", "ink": "blue", "location": "กลางหน้า ตัวใหญ่ ปกหน้า", "confidence": 0.4, "note": "ลายมือตัวใหญ่ อ่านยาก น่าจะเป็นชื่อปก/หัวเรื่อง สะกดไม่ชัด" },
+    { "text": "(หนุม ตี่บรรยาย)", "ink": "blue", "location": "ใต้ชื่อปก", "confidence": 0.35, "note": "อ่านไม่ชัด" },
+    { "text": "พูด กัน วัน เสาร์.", "ink": "blue", "location": "กลางหน้า", "confidence": 0.6, "note": "" },
+    { "text": "เล่มหนึ่ง", "ink": "blue", "location": "ใต้ 'พูดกันวันเสาร์'", "confidence": 0.5, "note": "" },
+    { "text": "(สมัย มาฆบูชา ๒๕๑๔)", "ink": "blue", "location": "กลางหน้า", "confidence": 0.5, "note": "" },
+    { "text": "ภาค มาฆบูชา ๑๔.", "ink": "blue", "location": "ครึ่งล่าง ตัวใหญ่", "confidence": 0.55, "note": "" },
+    { "text": "(จบ).", "ink": "blue", "location": "ล่างสุด ตัวใหญ่", "confidence": 0.7, "note": "" },
+    { "text": "ฮาก 3.1/2 กล่อง1", "ink": "pencil", "location": "มุมบนซ้าย", "confidence": 0.4, "note": "รหัสกล่อง" }
+  ],
+  "main_text": "[ลายมือ] ฮาก 3.1/2 กล่อง1   [๑]\\n[ลายมือ] สัมทัสเสตพ (บก.) พชเน\\n[ลายมือ] (หนุม ตี่บรรยาย)\\n[ลายมือ] พูด กัน วัน เสาร์.\\n[ลายมือ] เล่มหนึ่ง\\n[ลายมือ] (สมัย มาฆบูชา ๒๕๑๔)\\n[ลายมือ] ภาค มาฆบูชา ๑๔.\\n[ลายมือ] (จบ).\\n(หมายเหตุ: หน้านี้เป็นหน้าปก เขียนทับกระดาษพิมพ์เก่าที่กลับหัว มองเห็นตัวพิมพ์จาง ๆ ด้านหลังแต่อ่านไม่ออก)",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.45,
+  "needs_review": true,
+  "warnings": [
+    "หน้าปกเขียนด้วยลายมือตัวใหญ่ อ่านยากหลายจุด",
+    "มีตัวพิมพ์เก่ากลับหัวซ้อนอยู่ด้านหลัง (bleed-through) อ่านไม่ออก",
+    "มีเส้นกากบาทดินสอ/หมึกแดงพาดทับ"
+  ]
+}
