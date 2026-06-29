@@ -1,0 +1,20 @@
+{
+  "itemId": "88860a41-839f-5588-ae04-04adab61a862",
+  "referenceCode": "BIA04010001-0010_0000-02",
+  "page": 352,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "diary_entry",
+  "header": { "ref_note": "[352]", "date_th": "", "time": "ทุ่ม ๒ น.", "location": "", "page_mark": "[352]" },
+  "main_text": "รมอ และแก่ ม หาเนี้ยร. ?ัด กลับก่อน.\nกลับจากนั้น ๑งเรือ ๑ทัดจน ร่วม ๒ใน.\nจิ้งได้ออก เรือไป ?ทับ. ตยพลาง หรือไปได้\nหลายครั้ง หวบทอด ถึง อิ้ง?ินทอย ?ว ๒ น.\nของวัน ใหม่.\nต๋ารับยา ท่ายขาว.\n\nMag. Sulphate          400.00\n    Carbonate Levis    60.00\nSpt. Menth. Pep.        15.00\nAqua. Qs add.          500.00\n\nSig 30-45 C.C. ก่อนเข้านอน เวยี ต้อง\nๆ?.",
+  "handwriting": [
+    { "text": "Mag. Sulphate 400.00 / Carbonate Levis 60.00 / Spt. Menth. Pep. 15.00 / Aqua. Qs add. 500.00 / Sig 30-45 C.C.", "ink": "blue/black", "location": "center, prescription", "confidence": 0.7, "note": "ตำรับยาเขียนเป็นภาษาอังกฤษ/ลาติน (Magnesium Sulphate, Carbonate, Spt. Menth. Pep., Aqua) พร้อมขนาดยา" }
+  ],
+  "language": ["th", "en"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.55,
+  "needs_review": true,
+  "warnings": ["หน้านี้มีตำรับยาเขียนเป็นภาษาอังกฤษ/ลาติน ตัวเลขขนาดยาบางส่วนไม่แน่ใจ ส่วนข้อความภาษาไทยตอนต้นจางและอ่านยาก"]
+}
