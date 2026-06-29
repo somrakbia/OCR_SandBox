@@ -1,0 +1,25 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 363,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": { "ref_note": "BIA3.1/2 กล่อง 1", "title": "การใช้กิเลสให้เป็นประโยชน์.", "page_mark": "[363]" },
+  "outline": [],
+  "handwriting": [
+    { "text": "BIA3.1/2 กล่อง 1", "ink": "blue", "location": "top-left", "confidence": 0.7, "note": "รหัสอ้างอิง" },
+    { "text": "ธรรมปาฏิโมกข ๑๐พย.๑๔", "ink": "blue", "location": "top-left", "confidence": 0.6, "note": "ชื่อชุด/วันที่ เขียนด้วยลายมือ" },
+    { "text": "๑๗๓๔", "ink": "blue", "location": "top-center", "confidence": 0.35, "note": "เลขกำกับ อ่านไม่ชัด" },
+    { "text": "[363]", "ink": "blue", "location": "top-right", "confidence": 0.8, "note": "เลขหน้า" },
+    { "text": "๓๔", "ink": "blue", "location": "lower-right", "confidence": 0.4, "note": "เลขกำกับลายมือ" }
+  ],
+  "main_text": "[ลายมือ BIA3.1/2 กล่อง 1] [ลายมือ ธรรมปาฏิโมกข ๑๐พย.๑๔] [ลายมือ ๑๗๓๔] [363]\nการใช้กิเลสให้เป็นประโยชน์.\n๐. คือการใช้ ตัวกู-ของกู ให้เป็นประโยชน์, เหมือนเขาใช้อุจจาระปัสสาวะ คือ ให้มันคบหน้าคุณบอยๆ อย่างถูกเรื่องถูกราว ก็ได้,\nมิฉะนั้นแล้ว คุณจะไม่มีแผ่นดินอยู่ สักเท่าใบพุทรา, เหมือนสุนัขขี้เรื้อน จะคุกนรกมหาปริพาหะ -ยรกแห่ง ตัวกู-ของกู",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.6,
+  "needs_review": true,
+  "warnings": ["หน้านี้มีเนื้อหาพิมพ์ดีดสั้น ส่วนล่างของหน้าว่าง", "มีรอยเปื้อนหมึกบนหัวกระดาษ", "เลขกำกับลายมือบางตัวอ่านไม่ชัด"]
+}
