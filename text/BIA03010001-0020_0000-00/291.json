@@ -1,0 +1,21 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 291,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "card_topic_list",
+  "header": { "ref_note": "(แก่ธรรมทูตต่างประเทศ)", "title": "การสอนพุทธศาสนา ทางคัมภีร์โบเปิล.", "page_mark": "[291]" },
+  "outline": [],
+  "handwriting": [
+    { "text": "BIA3.1/2 กล่อง 1", "ink": "pencil", "location": "top-left", "confidence": 0.7, "note": "รหัสอ้างอิงเขียนด้วยดินสอ/ปากกา" }
+  ],
+  "main_text": "(แก่ธรรมทูตต่างประเทศ) [291]\n[ลายมือ] BIA3.1/2 กล่อง 1\nการสอนพุทธศาสนา ทางคัมภีร์โบเปิล.",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.78,
+  "needs_review": false,
+  "warnings": ["คำว่า \"คัมภีร์โบเปิล\" อ่านไม่ชัดเจน อาจเป็นคำทับศัพท์", "หน้าส่วนใหญ่ว่างเปล่า เป็นบัตรหัวข้อ"]
+}

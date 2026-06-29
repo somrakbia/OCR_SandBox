@@ -1,0 +1,21 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 292,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "card_topic_list",
+  "header": { "ref_note": "(แก่ธรรมทูตต่างประเทศ)", "title": "หลักธรรม ที่ \"ฝรั่ง\" กำลังสนใจ.", "page_mark": "[292]" },
+  "outline": [],
+  "handwriting": [
+    { "text": "BIA3.1/2 กล่อง 1", "ink": "pencil", "location": "top-left", "confidence": 0.7, "note": "รหัสอ้างอิงเขียนด้วยดินสอ/ปากกา" }
+  ],
+  "main_text": "(แก่ธรรมทูตต่างประเทศ) [292]\n[ลายมือ] BIA3.1/2 กล่อง 1\nหลักธรรม ที่ \"ฝรั่ง\" กำลังสนใจ.",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.82,
+  "needs_review": false,
+  "warnings": ["หน้าส่วนใหญ่ว่างเปล่า เป็นบัตรหัวข้อ"]
+}

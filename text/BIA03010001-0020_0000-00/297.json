@@ -1,0 +1,25 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 297,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": { "ref_note": "BIA3.1/2 กล่อง 1", "title": "", "page_mark": "[297]" },
+  "outline": [
+    "4. ?หลักพุทธศาสนา ที่สอนให้มี? ?ใจ?ในๆได้ (Content) ?ชาวตะวันตก?สนใจอยู่เสมอๆ ที่?นำๆเปื้อ?ๆ? ?ควร? และ ?ตลอด?ขอนๆในๆประเทศๆได้? ?หรือ? ?จะๆเตอร? เ?ราะ?ๆ? ?ไป? ?สอน? ?อ.มีวิธีๆเมื่อๆ? ?อย่างไร? ?เพราะๆ? ?ๆ?ๆ?"
+  ],
+  "handwriting": [
+    { "text": "BIA3.1/2 กล่อง 1", "ink": "pencil", "location": "top-left", "confidence": 0.6, "note": "รหัสอ้างอิง" },
+    { "text": "[ดูฟิลด์ outline ข้อ 4]", "ink": "blue", "location": "ย่อหน้าบน ข้อ 4", "confidence": 0.2, "note": "ลายมือหวัดมาก อ่านได้น้อย มีคำ Content" },
+    { "text": "พระๆ ?สถิตๆ? ?ป.?", "ink": "blue", "location": "กลางหน้า ลายเซ็น", "confidence": 0.2, "note": "ชื่อผู้ถาม อ่านไม่ออก" }
+  ],
+  "main_text": "BIA3.1/2 กล่อง 1 [297]\n[ลายมือ] 4. ?หลักพุทธศาสนา ที่สอนให้มี? ?ใจ?ในๆได้ (Content) ?ชาวตะวันตก?สนใจอยู่เสมอ ... ?อ.มีวิธีๆ? ?อย่างไร?\n[ลายมือ] พระๆ ?สถิตๆ? ?ป.?",
+  "language": ["th", "en"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.22,
+  "needs_review": true,
+  "warnings": ["ลายมือหวัดด้วยปากกาน้ำเงิน อ่านได้น้อยมาก เป็นข้อ 4 ต่อจากหน้า 296", "มีคำภาษาอังกฤษ Content", "ลายเซ็นชื่อผู้ถามอ่านไม่ออก", "ต้องการตรวจทาน"]
+}
