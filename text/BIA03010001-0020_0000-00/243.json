@@ -1,0 +1,27 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 243,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "handwritten_note",
+  "header": { "ref_note": "BIA3.1/2 กล่อง 1", "title": "หัวข้อ ที่ใช้บรรยาย และปัญหาต่าง ๆ เกี่ยวกับ สุญญตา.", "page_mark": "[243]" },
+  "outline": [
+    "หัวข้อ ที่ใช้บรรยาย และปัญหาต่าง ๆ เกี่ยวกับ",
+    "สุญญตา.",
+    "๒๕๑๔ แก่ พิรรลา? ยุวช ปิตรกาต เรียน."
+  ],
+  "handwriting": [
+    { "text": "หัวข้อ ที่ใช้บรรยาย และปัญหาต่าง ๆ เกี่ยวกับ สุญญตา.", "ink": "blue", "location": "กลางบัตร เป็นหน้าปก", "confidence": 0.85, "note": "ข้อความหลัก คำว่า สุญญตา ตัวใหญ่" },
+    { "text": "ที่เป็นหัวข้อ", "ink": "pencil", "location": "เหนือบรรทัดแรก", "confidence": 0.4, "note": "ดินสอจาง" },
+    { "text": "๒๕๑๔ แก่ พิรรลา? ยุวช ปิตรกาต เรียน.", "ink": "blue", "location": "ล่างของบัตร", "confidence": 0.4, "note": "อ่านยาก" }
+  ],
+  "main_text": "[ลายมือ] หัวข้อ ที่ใช้บรรยาย และปัญหาต่าง ๆ เกี่ยวกับ สุญญตา.\n๒๕๑๔ แก่ พิรรลา? ยุวช ปิตรกาต เรียน.",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.6,
+  "needs_review": true,
+  "warnings": ["เป็นบัตรหน้าปก ลายมือทั้งหมด", "บรรทัดล่างอ่านยาก", "บัตรมีรอยฉีกที่ขอบบน"]
+}
