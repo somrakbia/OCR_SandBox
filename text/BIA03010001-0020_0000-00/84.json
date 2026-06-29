@@ -1,0 +1,29 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 84,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": { "ref_note": "BIA3-1/2 กล่อง 1", "title": "", "page_mark": "[84]" },
+  "outline": [
+    "๑. เชอร หรือ สิงห์ กัวร : \"คำอธิบานของตัวสูตร\"",
+    "๒. ริส เดวิดสุ( ) : \"ข้อความทางด้านปรัชญา\"",
+    "อภิธัมมกถา : \"ข้อความฝ่ายปรัชญา และฝ่ายจิตตวิทยา,"
+  ],
+  "handwriting": [
+    { "text": "BIA3-1/2 กล่อง 1", "ink": "pencil", "location": "top-left header", "confidence": 0.45, "note": "รหัสอ้างอิงดินสอ อ่านไม่ชัด" },
+    { "text": "Abhi = further beyond.", "ink": "blue", "location": "ใต้ข้อ ๑ ขวา", "confidence": 0.7, "note": "ลายมืออังกฤษ" },
+    { "text": "Dharm = Law.", "ink": "blue", "location": "ใต้ข้อ ๑ ขวา", "confidence": 0.75, "note": "ลายมืออังกฤษ" },
+    { "text": "a commentary on the Canon. (Spirit. p. ix )", "ink": "blue", "location": "ใต้ข้อ ๑ ขวา", "confidence": 0.6, "note": "ลายมืออังกฤษ เลขหน้าอ้างอิงอ่านไม่ชัด" },
+    { "text": "discours on philosophical or psychological matters.", "ink": "blue", "location": "ใต้บรรทัดอภิธัมมกถา", "confidence": 0.7, "note": "ลายมืออังกฤษ สะกด discours (น่าจะ discourse)" }
+  ],
+  "main_text": "BIA3-1/2 กล่อง 1 [84]\n๑. เชอร หรือ สิงห์ กัวร : \"คำอธิบานของตัวสูตร\"\n[ลายมือ-น้ำเงิน] Abhi = further beyond. Dharm = Law. a commentary on the Canon. (Spirit. p. ix )\n๒. ริส เดวิดสุ( ) : \"ข้อความทางด้านปรัชญา\"\nอภิธัมมกถา : \"ข้อความฝ่ายปรัชญา และฝ่ายจิตตวิทยา,\n[ลายมือ-น้ำเงิน] discours on philosophical or psychological matters.",
+  "language": ["th", "en"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.65,
+  "needs_review": true,
+  "warnings": ["มีลายมืออังกฤษหลายบรรทัด", "วงเล็บชื่อหลังริสเดวิดสุว่างเปล่า/อ่านไม่ออก"]
+}
