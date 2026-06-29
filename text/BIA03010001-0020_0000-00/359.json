@@ -1,0 +1,34 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 359,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "handwritten_note",
+  "header": {
+    "ref_note": "BIA 3.1/2 กล่อง 1",
+    "title": "สังคมธรรม ๒๕๑๔, (๑๔๓๖)",
+    "page_mark": "[359]"
+  },
+  "outline": [],
+  "handwriting": [
+    {
+      "text": "สังคมธรรม ๒๕๑๔, (๑๔๓๖)",
+      "ink": "pencil",
+      "location": "top, large heading",
+      "confidence": 0.55,
+      "note": "หัวเรื่องลายมือตัวใหญ่กลางหน้าด้านบน หมึก/ดินสอเข้ม; เลขในวงเล็บอ่านไม่แน่นอน"
+    }
+  ],
+  "main_text": "[ลายมือ: สังคมธรรม ๒๕๑๔, (๑๔๓๖)]",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.5,
+  "needs_review": true,
+  "warnings": [
+    "หน้าเกือบว่างเปล่า มีเพียงหัวเรื่องลายมือตัวใหญ่ด้านบน (น่าจะเป็นบัตรคั่น/หน้าปกชุด)",
+    "เลขในวงเล็บอ่านไม่แน่นอน"
+  ]
+}
