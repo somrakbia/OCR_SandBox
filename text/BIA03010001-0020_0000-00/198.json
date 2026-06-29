@@ -1,0 +1,22 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 198,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": { "ref_note": "BIA 3.1/2 กล่อง ๑", "title": "คำ ว่า ทุกข์ ใน ปฏิจจ. ผิด จาก ใน ที่อื่น เขา.", "page_mark": "[๑๙๘]" },
+  "outline": [],
+  "handwriting": [
+    { "text": "BIA 3.1/2 กล่อง ๑", "ink": "blue", "location": "top center-left", "confidence": 0.6, "note": "reference code" },
+    { "text": "[๑๙๘]", "ink": "blue", "location": "top-right corner", "confidence": 0.8, "note": "page mark" }
+  ],
+  "main_text": "[ลายมือ] BIA 3.1/2 กล่อง ๑   [ลายมือ] [๑๙๘]\nคำ ว่า ทุกข์ ใน ปฏิจจ. ผิด จาก ใน ที่อื่น เขา.\n\n๐ ปฏิจจ.ฝ่ายสมุทยวาร เป็นได้ ทั้ง บุญ -อบุญ -อเนญชา, (เป็นทุกข์ทั้งนั้น)\n\n๐ เป็นทุกข์ทั้งนั้น เพราะเป็นที่ตั้งแห่งอุปาทาน, และหมายถึงที่ อุปาทานยึดครอง.\n\n๐ ปฏิจจ. ฝ่ายนิโรธวาร เป็น สัมมัตตะ, สมุทยวาร เป็น มิจฉัตตะ\n  ๐ บุญญาภิสังขาร, อเนญชาภิสังขาร ก็อยู่ในฝ่าย มิจฉัตตะ (สมุทยวาร)\n  ๐ แม้เป็น อเนญชา แล้ว ก็ยังจัดให้เป็นฝ่ายทุกข์-มิจฉัตตะ, เพราะอุปาทาน\n\n๐ ดังนั้น ความหมาย ของคำว่า บุญ หรือ ทุกข์ ในกรณีปฏิจจ.นี้ ไม่เหมือนกับในที่ทั่วไป.",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.85,
+  "needs_review": false,
+  "warnings": []
+}
