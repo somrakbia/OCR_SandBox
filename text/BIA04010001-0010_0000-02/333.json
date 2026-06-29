@@ -1,0 +1,21 @@
+{
+  "itemId": "88860a41-839f-5588-ae04-04adab61a862",
+  "referenceCode": "BIA04010001-0010_0000-02",
+  "page": 333,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "diary_entry",
+  "header": { "ref_note": "BIA04010001-0010_0000-02 / 333", "date_th": "", "time": "", "location": "", "page_mark": "[333]" },
+  "main_text": "ไห้น้อย ตอนทำไป พบคุณ ว่อง กลาง\nทาง ๆ เหลอ ถือ โอกาด ๆๆ เกๆ ยังรั้ง เปน\nหัวข่ว มีรุๆ:อๆ ใส่ไว้ ทับจๆเหี่ยๆ,\nฆ้านลองๆ เรียกตรๆ ทำลังไป หา ทันหลวง. ซึ่ง\nที่ เริงๆ ควๆ ธุระ อ่อมๆ หมายถึง ทรบอกบุญๆ ของๆ\nเขานั้นเอง.\n\nนั่ง ๆ ลือ ไป ทัน น้องๆ เหลี่ยงๆ นั่ง\nคุย กัน คน ถึ เวลาเพล ๆๆ นิน ท้องๆเหี่ยๆ\nมะ ม่อง ของๆ น่าตริก. แล้วๆ ไป ซื้อ ของ\nบางๆ?? จากๆๆ น้อยๆ ไป ทัน หรั้ๆ เล่า\nเรื่องๆๆ ทรงๆบ??มรร ให้ ฟัง แกรับๆ ในๆ ตะๆ ปๆ\nกัน. ไปๆ ซื้อ ของๆๆๆ?? สุๆๆๆ ภ??? ทด\nๆ?? ของ เก่งๆ ต่อ คงๆๆ ?? ?ๆ ป้าๆ ได้แๆๆๆๆ\nรวม ซื้อ ที่ ทันๆๆ?ๆ ๆ เกือ ๓๐ เท. จาก\nทันๆๆๆ?? ไป ทัน ขๆ หลๆๆ ไม่มีๆไร ซื้อ.\nแพๆ และไม่ตรงๆๆๆต้อๆๆ ทร\nๆๆ ไปทัน เลี่ยๆๆๆ ๆ ?ๆ คุย เรื่องๆๆ?ๆ\nทร นี้มือ ของๆๆๆ ในๆๆ?? คๆ ในๆๆ?ๆ?ๆ\nเรื่อง ทร รับๆๆ มรร ให้ ฟัง และๆ?? ??้ ต้อง\nกะ ฟ้อ หรือ. ?? ทัน ?ะ ขๆด (น้องๆๆๆแๆ) จะ",
+  "handwriting": [
+    { "text": "[333]", "ink": "pencil", "location": "top-right corner", "confidence": 0.85, "note": "page number" },
+    { "text": "main diary prose", "ink": "blue", "location": "full page", "confidence": 0.38, "note": "Thai cursive, bleed-through; mentions คุณว่อง, ทันหลวง, shopping/errands, ๓๐ บาท" }
+  ],
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.38,
+  "needs_review": true,
+  "warnings": ["heavy bleed-through from reverse side", "cursive handwriting difficult to read", "many words and proper names marked ? as uncertain"]
+}

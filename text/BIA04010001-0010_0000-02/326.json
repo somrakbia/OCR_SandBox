@@ -1,0 +1,21 @@
+{
+  "itemId": "88860a41-839f-5588-ae04-04adab61a862",
+  "referenceCode": "BIA04010001-0010_0000-02",
+  "page": 326,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "diary_entry",
+  "header": { "ref_note": "BIA04010001-0010_0000-02 / 326", "date_th": "", "time": "", "location": "", "page_mark": "[326]" },
+  "main_text": "หลวงเด พ่อจา ?? นึกว่า จะ ทำไป ในรูปทรช่วย\nเหลือ ของสาขากร ?? ?? ทุกคน, ไม่ให้เป็น\nทรเรี่ยไร. เขาเลย มอง ให้ ขน ว่อง เป็น\nตัว แทน และรวม อนุโมทรบัตร ไว้ ๒๐\n๑ เล่ม, แต่เขาว่อง ยังไม่แน่ใจว่า จะทำเป็น\nบัญชี ดี หรือ ใส่ลงน??ดี ซึ่งสิ่งกะ จะเปน\nใบรับเงิน ดี ?? ใส่ใจอินบุญ?? ?? นี่ออะ\nน้อยไป พอ กัน หรือไม่, ไม่ร. ตกลองว่า ใน\nที่??ด ทรบอกๆๆ ก็เปนไปอย่ง กลับ ทอง พอ\nใส่ ในที่??ไม่ทัน ออกปก. ?? ส่วนยอด\nกัวก และ?? เรื่อง ๆ แต่ทบรัตจาดจะเปน อย่างใน\nลองดไป, ไม่กล่า ทร.\n\nเขาจะ กลับ พรมณ์เน, เง่นๆ?? ๆ หา\nเขาๆ คน เรื่องๆ ไม่, แต่นน?? ตัว ยังไม่ได้กลับ ??\nกลับร่วม กัน. อยุก จะ ??ของ ในทั่วถึง ต่อ ??\nวี ใน ??อย่างไร ใส่ไป ??แลง แต่ก็ได้สื่อ ??\nตาน??หลวงไว้ แล้ว เนื่องเขาที่จอใน ใส่ พงกัน.\n\n๒๐ น. คุณเปรียง มารวิกลับ แน่ง ?? ภาวที่\nมาด้วย ดูงกันอยู่ ?? อย่งกินๆ ทั้นๆๆ มา\nร่วมคุย ด้วย อิตคน คน ๒ น. จึงกรับพ ??ม",
+  "handwriting": [
+    { "text": "[326]", "ink": "pencil", "location": "top-right corner", "confidence": 0.85, "note": "page number" },
+    { "text": "main diary prose", "ink": "blue", "location": "full page", "confidence": 0.4, "note": "Thai cursive, heavy bleed-through; mentions ๒๐ น., คุณเปรียง" }
+  ],
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.4,
+  "needs_review": true,
+  "warnings": ["heavy bleed-through from reverse side", "cursive handwriting difficult to read", "many words marked ? as uncertain"]
+}

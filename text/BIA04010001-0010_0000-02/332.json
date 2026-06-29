@@ -1,0 +1,21 @@
+{
+  "itemId": "88860a41-839f-5588-ae04-04adab61a862",
+  "referenceCode": "BIA04010001-0010_0000-02",
+  "page": 332,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "diary_entry",
+  "header": { "ref_note": "BIA04010001-0010_0000-02 / 332", "date_th": "", "time": "", "location": "", "page_mark": "[332]" },
+  "main_text": "ๆ สามัคคี ดือ ความรัก ที่ เป็นกลุ่มก้อ??\n  ก. ความรักเฉียว มอ?? ?? เปน รัฐหาตๆ (มุดๆๆ)\n  ข. ความรักหมู่ๆคณะ. ท้อยๆ (ใก่ๆๆ)\n  ค. ความ รามัคๆ ??ๆๆ รังๆๆ ร?ๆๆๆๆๆ\n  ง. สามัคๆ ?? ?? ตัวแห่ง วิวๆๆๆ ที่มัน?ๆ เลื่อน (??ๆๆๆ) ของ ??ๆ\n  จ. รามัคๆ เปน วัฒนๆ อรรๆ ??ๆๆๆๆ ของๆๆๆๆ.\n  ฉ. รามัคๆ ดือ ชีวิตๆ (ของท่งๆๆ)\n  ช. รามัคๆ ดือ ชีวิตๆๆๆๆๆ (ของๆร่วมๆๆ)\n\nๆ อานิรงๆ ของ สามัคๆ.\n  ก. ในระๆ ที่โลก ตรๆๆๆไปด้วยๆๆๆๆๆๆๆ\n     ??น แอ่ๆๆ (??ทับ?ๆๆๆ)\n  ข. ในๆ ตามๆๆๆ (รบทับ ความเปลๆๆๆ)\n\n  ค. แม้ แต่ ในๆๆแรงๆๆๆ ส่วนๆๆๆๆ\n     ทอ ธรรๆๆ (รบทับ ส่งๆๆ)\n\nๆ รรุ?? ความ. ก. ประวัๆๆไตๆ แห่ง ??มัคๆๆ\n              ข. พุทธรราๆ แห่ง ๆๆมัคๆๆ\n              ค. ๆๆ?ๆ เๆ แห่งๆ ??มัคๆๆ.",
+  "handwriting": [
+    { "text": "[332]", "ink": "pencil", "location": "top-right corner", "confidence": 0.85, "note": "page number" },
+    { "text": "structured outline notes", "ink": "blue", "location": "full page", "confidence": 0.42, "note": "Thai outline continuing สามัคคี theme; lettered sub-items, parenthetical glosses uncertain" }
+  ],
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.42,
+  "needs_review": true,
+  "warnings": ["page is structured outline notes not prose", "ink blots along left margin", "cursive handwriting difficult to read", "many words marked ? as uncertain"]
+}

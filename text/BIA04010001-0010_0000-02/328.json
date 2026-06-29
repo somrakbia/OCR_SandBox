@@ -1,0 +1,21 @@
+{
+  "itemId": "88860a41-839f-5588-ae04-04adab61a862",
+  "referenceCode": "BIA04010001-0010_0000-02",
+  "page": 328,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "diary_entry",
+  "header": { "ref_note": "BIA04010001-0010_0000-02 / 328", "date_th": "", "time": "", "location": "", "page_mark": "[328]" },
+  "main_text": "?. มายัดนี้ ?? ความรู้สึกตรงกันทับ ใน\n?? ?? ออก ดูใจ้ออกอีๆ?? ชั่วๆ ก็\nใส่ในเงินทับ ?? ?? รอบทาง เลยใจ้บๆด,\nงาน ก็กลับ เป็น มี ขึ้น, ?? กับเขนเป็นของ\nแยก??. ?? นี้ ??รวบ กับ หัว \"ปลด ความ\nอกๆ (วาๆ) ๆๆเรื่องๆจากปลอลิดๆ \" ??ๆๆ??\nนั้นเอง. ใส่ใน?? หรือ ความรู้สึก ถึงแม้ มี\nต่ำเปนไป ด้วย ความไม่ประเทด แล ความพอใจ ??\nๆ?? ก็เปนรูง สี่??ๆ เท่านั้นเอง.\n\nส่วน คน ?? เรียน ตัด ทร ทบบวีธี นั้\nกับ ใจ ใส่ลอ และ ใน?ใส่ จึ่งทับ ปวงใน แต่นี้,\nเรื่องๆ?? เปนของ??? ?? อ?? อันๆ ?? เขาได้\nรรง ความ ใส่ ฝึก หัด ส่ง ความ รู้สึก และ หัด\nฝึกรอด ในตั้น??? เนื่องเท่าๆ ซึ่งทั้งปวงๆ ม\nนี่เป็นๆ. อย่างแรก เนื่อง?? ออม, อย่างหลัง\nเป็น ประโยตน์ เนื่องว่า จะเปนทร?? ๆ ทั้\nๆ ปวดล ปริงๆล ปฏิๆ ครๆๆ?? ๆ จะ น??\nๆ จะ มา??กับน?? เๆ ตอง ปัญหา และ พบทาง\nใส่เอง. และ ในพ??ๆ ๆ ?? ?? ?? เปนตัๆ ๆ\n?? ?? ลธิๆด ๒๖.๓๐",
+  "handwriting": [
+    { "text": "[328]", "ink": "pencil", "location": "top-right corner", "confidence": 0.85, "note": "page number" },
+    { "text": "main diary prose", "ink": "blue", "location": "full page", "confidence": 0.35, "note": "Thai cursive, bleed-through; closing time/mark ๒๖.๓๐ at bottom (uncertain)" }
+  ],
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.35,
+  "needs_review": true,
+  "warnings": ["heavy bleed-through from reverse side", "cursive handwriting difficult to read", "many words marked ? as uncertain", "bottom line numbers uncertain"]
+}

@@ -1,0 +1,22 @@
+{
+  "itemId": "88860a41-839f-5588-ae04-04adab61a862",
+  "referenceCode": "BIA04010001-0010_0000-02",
+  "page": 330,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "diary_entry",
+  "header": { "ref_note": "BIA04010001-0010_0000-02 / 330", "date_th": "", "time": "", "location": "", "page_mark": "[330]" },
+  "main_text": "ค. ทรเสื่อมใส??ระบอบ ประชๆ ?? ทรโทษพภ ??รังๆพ\n   นๆ และ ทร เสื่องๆๆ ?? ?? วีธี\n   ของ เขา ?? ??ทาๆ ?? ประหรินใดๆ ใส่ไม่ ๆ ??แลๆ\n   สรรๆ ซึ่ง เป็น ตัวเรๆ.\n  ค. ?? ในๆๆ ?? จะรวีๆเขา ได้ ก็ต้องลามัคๆ\n     ??จะทรงตัวอยู่ได้ ก็ต้องด้วยลามัคๆ.\n\n(ภาด ตัๆ เรื่องๆ) ความรามัคๆ\n\nๆ ปริชต ของ ความรัก กับ ความ เกรียด\n  ก. รัก = ดูดเข้า, เกรียด = ผลัก ออก\n  ข. ดูๆ = ??กๆๆ ตรง = วิภาดตๆๆ\n  ค. ทามๆๆ ไม่ใช่ ดูๆๆๆ.\n\nๆ รมุๆฐาน และ อุปกรณ์ ของ ความรัๆ\n  ก. ไม่ มี ใจๆ เปนที่ตั้งเกียๆ ของสรๆๆ\n  ข. มี ความเมตอๆ ในๆๆๆ เมตๆๆ และ ความรๆๆ\n  ค. ความร่วมทุกๆๆ ร่วมๆรง, ซึ่งเป็นๆๆ ของ สบๆๆๆ\n  ง. ทรงๆเขๆๆ?? หมๆปกต?? หมๆดิงๆๆๆ\n  จ. ความๆๆมๆๆไม่ ??ๆ ทบ ??.\n  ฉ. ความถูกต้อง ??ๆๆ ยุตๆๆๆๆงๆ ระๆๆ?งๆๆ กัน.\n* (เนื่องๆ แล้ว หลๆก กล่าวๆๆๆๆๆ ความ อิกๆๆ?? ของ\nๆๆ?ๆ�??ๆๆๆๆๆๆ ๓๒๐๓๒ ??ๆๆๆๆ ต้อง????ทางใส่ออกๆๆไห้ๆๆ?? ของๆ",
+  "handwriting": [
+    { "text": "[330]", "ink": "pencil", "location": "top-right corner", "confidence": 0.85, "note": "page number" },
+    { "text": "(ภาด ตัๆ เรื่องๆ) ความรามัคๆ", "ink": "blue", "location": "mid page heading", "confidence": 0.6, "note": "section heading (boxed)" },
+    { "text": "structured outline notes", "ink": "blue", "location": "full page", "confidence": 0.4, "note": "Thai outline; lettered sub-items, many uncertain" }
+  ],
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.4,
+  "needs_review": true,
+  "warnings": ["page is structured outline notes not prose", "heavy bleed-through", "cursive handwriting difficult to read", "many words marked ? as uncertain", "bottom footnote line very uncertain"]
+}

@@ -1,0 +1,22 @@
+{
+  "itemId": "88860a41-839f-5588-ae04-04adab61a862",
+  "referenceCode": "BIA04010001-0010_0000-02",
+  "page": 331,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "diary_entry",
+  "header": { "ref_note": "BIA04010001-0010_0000-02 / 331", "date_th": "อังคาร ๕ พฤษภา", "time": "", "location": "สามสรวงๆๆ", "page_mark": "[331]" },
+  "main_text": "อังคาร ๕ พฤษภา ๆ๖ สามสรวงๆๆ.\n\nเมื่อวันนี้ อุๆชุมเหลือๆทน ต้องหรือ จัน\nอาสัย มัน ผี เพื่อ ในตอน ล้า.\n\nกะไว้ว่า เขาไม่ค่อย วันนี้ จะ ไปดู เริงๆของ นี้\nตด และ เลี่ยมเขียน คนๆคน และ จะ ไปบัดทางวัด\nไทร ซึ่งไปไม่เคยจัด เปนๆ ทรความรู้สึก กันไว้ ??\nเนื่องจาก คุณนหด ฉิมๆต ไปบินๆ เข้าวันนี้ ที่\nเรือน ร่วม กับ ทันพรไรๆ เกะพังๆ. คนเปรียๆ\nและ คนขึ้น ๆ ขอร้องให้ คุณนหด เห็นแก่ๆๆ เปนๆๆ เลย\nไม่ต้องไป ดงจะนิน ดิรไปสรร และฉิมๆต ทันไรๆ\nๆๆ ร่วมด้วย.\n\nทันไรๆ มาๆ มาเวลา ?? คุณนหด มันๆๆ พร้อม\nมนตรี มาด้วย. ปิดๆ ช่วงๆๆ อาหาร ?? คายๆทๆ, หลัง\nฉัน ขุนๆ พรไๆรพ?ๆ ??ที่เปน ใน ??มากๆๆๆ คๆ\nๆๆ ตลอด เๆๆนิน. วันนี้ ฉันเรๆ แล้วๆ?นๆไม่ๆๆ.\nอๆไทๆ ฉันแล้ว เลยๆๆๆๆๆๆๆ เๆ ก็เตรียม\nออกๆๆๆ ?? ไปๆระๆๆๆ?? ก่อนๆๆไป\nๆๆๆๆ พบ น้องๆๆๆ เๆ ใส่ ในๆๆๆทๆ ของ\nมหรๆๆๆ ?? ขๆๆๆๆๆๆ ๆๆๆ ในๆ ??ๆ\nหๆๆๆ ซึ่ง ตรวๆๆ ในๆๆๆ ??ๆๆๆๆๆ",
+  "handwriting": [
+    { "text": "[331]", "ink": "pencil", "location": "top-right corner", "confidence": 0.85, "note": "page number" },
+    { "text": "อังคาร ๕ พฤษภา ๆ๖", "ink": "blue", "location": "top, entry header line", "confidence": 0.6, "note": "diary date header (Tuesday 5 May); year digit uncertain" },
+    { "text": "main diary prose", "ink": "blue", "location": "full page", "confidence": 0.38, "note": "Thai cursive, bleed-through; mentions คุณนหด, ฉิมๆต, ทันพรไรๆ" }
+  ],
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.4,
+  "needs_review": true,
+  "warnings": ["new diary entry starts here with date header", "heavy bleed-through", "cursive handwriting difficult to read", "many words and proper names marked ? as uncertain", "tape repair across top of page"]
+}

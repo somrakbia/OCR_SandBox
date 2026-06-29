@@ -1,0 +1,21 @@
+{
+  "itemId": "88860a41-839f-5588-ae04-04adab61a862",
+  "referenceCode": "BIA04010001-0010_0000-02",
+  "page": 327,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "diary_entry",
+  "header": { "ref_note": "BIA04010001-0010_0000-02 / 327", "date_th": "", "time": "", "location": "", "page_mark": "[327]" },
+  "main_text": "กัน.\n\nจาก ทรคุย ด้วยเรื่องต่างๆ ?? เกตว เห็น\nว่า ทันหลวง เป็นเช่ที่ ท้องทรไว้ใจ ?? จิตตร์ ใช้ได้\nวีธี หนึ่ง เนื่องในจอตใจ แช่มชื้น ?? ตลอด เวลา.\nแต่เนื่องจาก ลมาก อย่าง ยังไม่ใช่ ?? ครอบ??\nจิตต์ ตาม แบบ ทอง ??? ?? ??เนื่องจก\nเสียง ?? หลอกๆ หางอ่ง ดง ๆ ไว้ ในความคิด\nหรือ ความรู้สึก เนื่องอยู่ ให้ใจ เปนห่วง ทล\nร้อนมากไป เท่านั้น. แต่ลังเตด ๑ กฤษ ของ\nใจ คอรได้รับๆ แนะนำ วีธี ๒ อย่างพร้อม\nกัน. ลือ ๑. วีธี รวบ ตามแบบรมร์, ใส่\nเรื่อ เหนัดเนื่อง หรือ??ราน. ๒. ??\nหรักประวัตใจ ?? หนอง อิป่วล หรือ??แนว วีธีลด\nเนื่องทับ กิน ความรู้ตา กับ??? ความกล่ หรือ\nความ ?? อันทรวานๆ ใจ, เช่น หลวง?? \"ใน\nปัญฺ ??นๆ ห่ง ปลอ??ก??วม ?? ในความอกๆ ๓๖\nจากมันๆ ก็ปัญหา ทรเรีๆ ให้จิ?? ได้. \" ใจ\nที่ ทันหลวง เอง ก็เคยเล่า ??ๆ ?? ??มัยก่อน รัก\nและ หวัง สี ในหน้าที่ ?? ทร อย่างยิ่ง แต่ ?? ?? ความ\nทอตใจ ?? เวมๆ และ ทำ หนๆในหน้าที่ ?? ไม่ เปนๆ",
+  "handwriting": [
+    { "text": "[327]", "ink": "pencil", "location": "top-right corner", "confidence": 0.85, "note": "page number" },
+    { "text": "main diary prose", "ink": "blue", "location": "full page", "confidence": 0.4, "note": "Thai cursive, bleed-through; discusses methods (วีธี ๑/๒) of mental discipline" }
+  ],
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.4,
+  "needs_review": true,
+  "warnings": ["heavy bleed-through from reverse side", "cursive handwriting difficult to read", "many words marked ? as uncertain"]
+}

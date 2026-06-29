@@ -1,0 +1,21 @@
+{
+  "itemId": "88860a41-839f-5588-ae04-04adab61a862",
+  "referenceCode": "BIA04010001-0010_0000-02",
+  "page": 325,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "diary_entry",
+  "header": { "ref_note": "BIA04010001-0010_0000-02 / 325", "date_th": "", "time": "", "location": "", "page_mark": "[325]" },
+  "main_text": "ความเสื่อม ใส อย่างแท้จริง และต้องตรงใน\nผู้อื่นเสื่อม ใส จริงๆ ด้วย ผู้ฟังกอง,\nเหลือคน น้อย ?? ?? ท่านอง, หลวงวรรกบ,\nคนเปรียง, ขุนน้อง, คนนหุ, นั่ดือ, และ\nคนจอน ?? ?? ซึ่ง จะ เห็น ?? กันด?? และ\n??ฟัง กะ เท่าด้วย.\n\nเขา ก็?? พูด กะ คุณวร. จะ อย่างไร ก็ไม่\nใส่ แก??เรื่อง เขา ต่อปี รวบรวมร และ ?? ใน บอก\nบุญ. แต่ คน?? ?? หรือมากองนั้ง คนะ ทั้?? ??\nทั้?? นั้ด, และ แก เอง ?? บอกบุญ ?? ?? ??\nต้?? ใน ?? ?? ?? ?? ?? แต่ เขายังไม่ แน่ใจ\nว่า จะเป็นถึงๆ ๆ?? ??ในทร รวมๆมือ.\n\nถ่ปาล ใจ เกินเลยออกปาก ของความ\nช่วยเหลือจาก ?? และไม่ใส่ใจ ?? แสดงให้ทับบอ\nเขา จะ ขอกบุ ?? ?? ?? เพียงแต่ เขารวม\nอนุโมทนา ??ตร ??? ?? ?? ?? ในประหารงำ\nกฎ??มอน ๆ. จะ ต้อง ปีอ จะ แต่อม ๆ หรือ ไม่ ก็??มัน,\nกับ มหรเทดด, เคยเสียม จอ??ทถึ?? น?? วร??\nขอ ตะ ปอด ??. ?? เขาก็ไป ?? จับกินเด??,\nกระทังก?? หลวง รร?, หลวง ลรรกบ กลับเง??",
+  "handwriting": [
+    { "text": "[325]", "ink": "pencil", "location": "top-right corner", "confidence": 0.85, "note": "page number" },
+    { "text": "main diary prose", "ink": "blue", "location": "full page", "confidence": 0.38, "note": "Thai cursive, heavy bleed-through, names of monks/people partly legible (ท่านอง, หลวงวรรกบ)" }
+  ],
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.38,
+  "needs_review": true,
+  "warnings": ["heavy bleed-through from reverse side", "cursive handwriting difficult to read", "many words marked ? as uncertain", "proper names uncertain"]
+}

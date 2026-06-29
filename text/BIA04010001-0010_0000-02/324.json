@@ -1,0 +1,21 @@
+{
+  "itemId": "88860a41-839f-5588-ae04-04adab61a862",
+  "referenceCode": "BIA04010001-0010_0000-02",
+  "page": 324,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "diary_entry",
+  "header": { "ref_note": "BIA04010001-0010_0000-02 / 324", "date_th": "", "time": "", "location": "", "page_mark": "[324]" },
+  "main_text": "ถึงกับขอ ให้เปรียบ เรื่องปาจิตตก ที่เขาดึงเอามานี้\nว่า จะเป็นเรื่อง สามัคคีกฤษ นั้น ให้เป็นเรื่อง\n\"แนวทรบังคับจิตตร\" แต่เนื่องจาก เวลายังอีก\nไม่ถึง ตลอดที่ ?? ถึงเวลาแรง เขานึกอะไร\nไม่ทัน ก็บอกไปตามเขา ว่า นึกอะไรมา กล่าว\nให้เป็นที่ เข้าใจ แต่อีกพักหนึ่ง ไม่ทัน กลับว่าไม่ค่อย\nได้ผล ?? เรื่องนี้ เป็นเรื่อง จะ เฮื้อมรุงม ว่า\nจะเป็นเรื่อง ดูงเดน ส่วน ตัว มาก ??? หรือ ??\nไม่เป็น ทร จะ แสดง ปาจิตตก ?? ก็ควรจะเป็น ครว หรือ\nในที่ ?? ตกลอง\n\n๑๑.๓๐ น. ?? นุ่งห่อง บอกให้มาว่า พร้อม\nแล้ว ?? เขาเรา ก็ออกไป นั่ง เขาที่. ทรสานเอด\nควรน?? เป็นๆ ทรสะ แสดงปาจิตตกถ้วน. ลือ\nหลอด ?? ?? ?? ?? ๆๆ ตบ ??ี. ?? ?? ทรเขา??\nทรกัก ?? และ ?? ?? ?? ?? นาเริ่ม\nฝนปฏ ?? เกราด ?? ?? ?? ๑๑ ?? เอ?? ??\nฝนปฏ ปาจิตตาฟ้วน. จบ ปิด?? ?? และเขา\n?? อีก. ?? ?? ?? ?? ?? อิตตร์, ??\nในทรพูดดี ?? ?? ?? ?? ??\nทร?? \"?? \" ?? ?? เขา ?? ?? ๆ ฯ ?? ทรสานเอด",
+  "handwriting": [
+    { "text": "[324]", "ink": "pencil", "location": "top-right corner", "confidence": 0.85, "note": "page number" },
+    { "text": "main diary prose", "ink": "blue", "location": "full page", "confidence": 0.4, "note": "Thai cursive handwriting, heavy bleed-through from reverse, many words uncertain" }
+  ],
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.4,
+  "needs_review": true,
+  "warnings": ["heavy bleed-through from reverse side", "cursive handwriting difficult to read", "many words marked ? as uncertain", "lower portion of page especially uncertain"]
+}
