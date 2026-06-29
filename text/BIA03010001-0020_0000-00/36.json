@@ -1,0 +1,25 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 36,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": { "ref_note": "BIA3.1/2 กล่อง1", "title": "\"โลก\" ใน ภาษาธรรม.", "page_mark": "[36]" },
+  "outline": [
+    "\"โลก\" ใน ภาษาธรรม.",
+    "[เนื้อหาพิมพ์ดีดทั้งหน้าปรากฏกลับด้าน/กลับหัว (mirror show-through) อ่านได้ยากมาก เป็นเนื้อหาทำนองเดียวกับโลกภาษาธรรม]"
+  ],
+  "handwriting": [
+    { "text": "BIA3.1/2 กล่อง1", "ink": "pencil", "location": "มุมบนซ้าย", "confidence": 0.5, "note": "ลายมือกำกับรหัส" },
+    { "text": "กมฺมุนา วฑฺฒตี โลโก", "ink": "red", "location": "กลางหน้าค่อนบน", "confidence": 0.55, "note": "ลายมือแดงตัวใหญ่ คาถาบาลี อ่านโดยประมาณ" }
+  ],
+  "main_text": "[ลายมือ pencil: BIA3.1/2 กล่อง1] [36]\n\"โลก\" ใน ภาษาธรรม.\n[ลายมือ red ตัวใหญ่กลางหน้า: กมฺมุนา วฑฺฒตี โลโก]\n[หมายเหตุ: ข้อความพิมพ์ดีดที่เหลือทั้งหน้าปรากฏกลับหัว/กลับด้าน (mirror image / show-through) อ่านไม่ออกตามปกติ ข้ามการถอดความส่วนนี้]",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.3,
+  "needs_review": true,
+  "warnings": ["ทั้งหน้าเป็นภาพพิมพ์ดีดกลับหัว/กลับด้าน (mirror/show-through) ถอดความไม่ได้", "ถอดได้เพียงหัวเรื่องและลายมือแดงเท่านั้น"]
+}

@@ -1,0 +1,25 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 38,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "handwritten_note",
+  "header": { "ref_note": "BIA3.1/2 กล่อง1", "title": "โลกจะรอดอยู่ได้(ในสภาพที่น่าอยู่) โดยวิธีใด ?", "page_mark": "[38]" },
+  "outline": [],
+  "handwriting": [
+    { "text": "BIA3.1/2 กล่อง1", "ink": "pencil", "location": "มุมบนซ้าย", "confidence": 0.5, "note": "ลายมือกำกับรหัส" },
+    { "text": "๑ รอดได้ แม้เพียง กตัญญู", "ink": "red", "location": "บรรทัดแรกของเนื้อหา", "confidence": 0.6, "note": "" },
+    { "text": "ด้วย เมตตา", "ink": "red", "location": "บรรทัดที่สอง", "confidence": 0.65, "note": "" },
+    { "text": "ทำดี – ทำอย่างไร- ทำไปทำไมได้", "ink": "red", "location": "บรรทัดที่สาม", "confidence": 0.45, "note": "อ่านไม่แน่ใจ" },
+    { "text": "กลับไปหา สาสนา", "ink": "red", "location": "บรรทัดที่สี่", "confidence": 0.6, "note": "" }
+  ],
+  "main_text": "[ลายมือ pencil: BIA3.1/2 กล่อง1] [38]\n(๓) โลกจะรอดอยู่ได้(ในสภาพที่น่าอยู่) โดยวิธีใด ?\n[ลายมือ red] ๑ รอดได้ แม้เพียง กตัญญู\nด้วย เมตตา\nทำดี – ทำอย่างไร- ทำไปทำไมได้ ?\nกลับไปหา สาสนา\n[หมายเหตุ: ครึ่งล่างมีรอยพิมพ์ดีดกลับหัว (show-through) ข้ามไป]",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.55,
+  "needs_review": true,
+  "warnings": ["เป็นฉบับร่างลายมือสีแดงของเนื้อหาหน้า 37", "ลายมือบางบรรทัดอ่านไม่แน่ใจ", "ครึ่งล่างมีรอยพิมพ์ดีดกลับหัว show-through ไม่ถอด"]
+}
