@@ -1,0 +1,25 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 164,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": { "ref_note": "BIA 3.1/2 กล่อง1", "title": "กรรมดำ.", "page_mark": "[164]" },
+  "outline": [
+    "๐ กรรมกิเลส(ในสิงคาโลวาทสูตร) อ่านจากบาลีเลยดีกว่า. (สำหรับคฤหัส).",
+    "๐ กรรมเข้าใจผิด (สำหรับนักคิด, หรือคนเอาจริง) กุกกุโรวามสูตร, (อ่านบาลี)."
+  ],
+  "handwriting": [
+    { "text": "BIA 3.1/2 กล่อง1", "ink": "pencil", "location": "top-center", "confidence": 0.55, "note": "รหัสเอกสารลายมือ มีรอยเปื้อนหมึก" },
+    { "text": "[164]", "ink": "pencil", "location": "top-right", "confidence": 0.85, "note": "เลขหน้า" }
+  ],
+  "main_text": "[ลายมือ] BIA 3.1/2 กล่อง1   [164]\nกรรมดำ.\n๐ กรรมกิเลส(ในสิงคาโลวาทสูตร) อ่านจากบาลีเลยดีกว่า. (สำหรับคฤหัส).\n๐ กรรมเข้าใจผิด (สำหรับนักคิด, หรือคนเอาจริง) กุกกุโรวามสูตร, (อ่านบาลี).",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.82,
+  "needs_review": false,
+  "warnings": ["ชื่อสูตร 'กุกกุโรวาม/กุกกุโรวาท' อ่านได้ไม่ชัดเต็มที่"]
+}

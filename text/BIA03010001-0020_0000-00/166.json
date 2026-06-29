@@ -1,0 +1,25 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 166,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": { "ref_note": "BIA 3.1/2 กล่อง1", "title": "กรรมไม่ดำไม่ขาว.", "page_mark": "[166]" },
+  "outline": [
+    "๐ บาลีสังคีติสูตร และ บาลีกุกกุโรวาทสูตร. คือ เจตนา เพื่อละเสียซึ่งกรรมทั้งสามนั้น(ด้วยอริยมัค)",
+    "๐ ทางลัดที่สุด :- การทำลายอุปาทานว่า ตัวกู-ของกู."
+  ],
+  "handwriting": [
+    { "text": "BIA 3.1/2 กล่อง1", "ink": "pencil", "location": "top-center", "confidence": 0.55, "note": "รหัสเอกสารลายมือ มีรอยเปื้อนหมึก" },
+    { "text": "[166]", "ink": "pencil", "location": "top-right", "confidence": 0.85, "note": "เลขหน้า" }
+  ],
+  "main_text": "[ลายมือ] BIA 3.1/2 กล่อง1   [166]\nกรรมไม่ดำไม่ขาว.\n๐ บาลีสังคีติสูตร และ บาลีกุกกุโรวาทสูตร. คือ เจตนา เพื่อละเสียซึ่งกรรมทั้งสามนั้น(ด้วยอริยมัค)\n๐ ทางลัดที่สุด :- การทำลายอุปาทานว่า ตัวกู-ของกู.",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.85,
+  "needs_review": false,
+  "warnings": []
+}

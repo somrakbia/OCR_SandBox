@@ -1,0 +1,25 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 165,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": { "ref_note": "BIA 3.1/2 กล่อง1", "title": "กรรมขาว.", "page_mark": "[165]" },
+  "outline": [
+    "๐ ความไม่มีกรรมกิเลส (ดังกล่าวในสิงคาโลวาทสูตร)",
+    "๐ กุสลกรรมบถ (อ่านบาลี )"
+  ],
+  "handwriting": [
+    { "text": "BIA 3.1/2 กล่อง1", "ink": "pencil", "location": "top-center", "confidence": 0.55, "note": "รหัสเอกสารลายมือ" },
+    { "text": "[165]", "ink": "pencil", "location": "top-right", "confidence": 0.85, "note": "เลขหน้า" }
+  ],
+  "main_text": "[ลายมือ] BIA 3.1/2 กล่อง1   [165]\nกรรมขาว.\n๐ ความไม่มีกรรมกิเลส (ดังกล่าวในสิงคาโลวาทสูตร)\n๐ กุสลกรรมบถ (อ่านบาลี )",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.85,
+  "needs_review": false,
+  "warnings": ["ในวงเล็บหลัง 'อ่านบาลี' เว้นว่างไว้ ไม่มีข้อความ"]
+}
