@@ -1,0 +1,23 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 201,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "handwritten_note",
+  "header": { "ref_note": "BIA 3-1/2 กล่อง1", "title": "", "page_mark": "[201]" },
+  "outline": [],
+  "handwriting": [
+    { "text": "BIA 3-1/2 กล่อง1", "ink": "blue", "location": "top-left", "confidence": 0.85, "note": "รหัสอ้างอิงเขียนมือ" },
+    { "text": "[201]", "ink": "blue", "location": "top-right", "confidence": 0.9, "note": "เลขหน้าในวงเล็บเหลี่ยม" },
+    { "text": "การเกิด ของ ปฏิจจ. แก่ ใคร อย่างไร จบ", "ink": "blue", "location": "center", "confidence": 0.78, "note": "หัวข้อใหญ่ตัวหนา; น่าจะ 'การเกิดของปฏิจจสมุปบาท แก่ใคร อย่างไร จบ'" }
+  ],
+  "main_text": "[ลายมือ] BIA 3-1/2 กล่อง1   [201]\n[ลายมือ] การเกิด ของ ปฏิจจ.\n[ลายมือ] แก่ ใคร\n[ลายมือ] อย่างไร    จบ",
+  "language": ["th", "en"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.78,
+  "needs_review": true,
+  "warnings": ["หน้าเป็นบัตรลายมือล้วน มีรอยพิมพ์ดีดทะลุจากด้านหลัง (mirror bleed-through) อ่านไม่ออก ไม่ได้ถอด", "ข้ามแถบ caption ของหอจดหมายเหตุที่ขอบล่าง"]
+}

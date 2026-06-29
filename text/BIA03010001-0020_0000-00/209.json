@@ -1,0 +1,23 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 209,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "handwritten_note",
+  "header": { "ref_note": "BIA 3.1/2 กล่อง1", "title": "บท สรุปท้าย.", "page_mark": "[209]" },
+  "outline": [],
+  "handwriting": [
+    { "text": "BIA 3.1/2 กล่อง1", "ink": "blue", "location": "top-left", "confidence": 0.8, "note": "รหัสอ้างอิงเขียนมือ" },
+    { "text": "[209]", "ink": "blue", "location": "top-right", "confidence": 0.9, "note": "เลขหน้าในวงเล็บเหลี่ยม" },
+    { "text": "บท สรุปท้าย.", "ink": "blue", "location": "center-top", "confidence": 0.82, "note": "หัวข้อตัวหนา เป็นบัตรคั่นหัวข้อ" }
+  ],
+  "main_text": "[ลายมือ] BIA 3.1/2 กล่อง1   [209]\n[ลายมือ] บท สรุปท้าย.",
+  "language": ["th", "en"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.82,
+  "needs_review": true,
+  "warnings": ["บัตรคั่น/หัวข้อลายมือล้วน เนื้อหาส่วนใหญ่ว่างเปล่า มีรอยพิมพ์ดีดทะลุจากด้านหลังที่ขอบขวา อ่านไม่ออก ไม่ได้ถอด", "ข้ามแถบ caption ที่ขอบล่าง"]
+}
