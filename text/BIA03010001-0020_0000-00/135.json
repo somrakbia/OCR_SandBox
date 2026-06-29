@@ -1,0 +1,24 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 135,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": { "ref_note": "BIA3.1/2 กล่อง 1", "title": "เหตุที่ มนุษย์ต้องมีสีล", "page_mark": "[135]" },
+  "outline": [
+    "๏ เหตุที่ต้องมีสีล : เพราะการทนไม่ได้ ของตนเอง, เนื่องแต่โรคทางวิญญาณ เพราะการทนไม่ได้ ของสังคม, เนื่องแต่เสนียดของสังคม"
+  ],
+  "handwriting": [
+    { "text": "BIA3.1/2 กล่อง 1", "ink": "pencil", "location": "top-left", "confidence": 0.6, "note": "archival reference mark" },
+    { "text": "[135]", "ink": "pencil", "location": "top-right", "confidence": 0.8, "note": "page number" }
+  ],
+  "main_text": "[ลายมือ] BIA3.1/2 กล่อง 1  [ลายมือ] [135]\nเหตุที่ มนุษย์ต้องมีสีล\n๏ เหตุที่ต้องมีสีล : เพราะการทนไม่ได้ ของตนเอง, เนื่องแต่โรคทางวิญญาณ เพราะการทนไม่ได้ ของสังคม, เนื่องแต่เสนียดของสังคม",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.85,
+  "needs_review": false,
+  "warnings": ["short page; mostly blank below the heading"]
+}

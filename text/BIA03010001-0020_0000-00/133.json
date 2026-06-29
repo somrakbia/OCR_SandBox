@@ -1,0 +1,30 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 133,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": { "ref_note": "BIA3.1/2 กล่อง 1", "title": "หลักปฏิบัติ เกี่ยวกับ สีลวัตร", "page_mark": "[133]" },
+  "outline": [
+    "๏ ทำไมจึงพูดเรื่องนี้ :",
+    "๐ เพราะปรากฏว่า รักษาสีลจนตาย ก็ยังไม่มีสีล,",
+    "๐ เพื่อปรับปรุงให้ดีขึ้น ทั้งที่ยังมงาย และไม่มงายแล้ว ก็ตาม,",
+    "๐ เพื่อเป็นรากฐานที่ดี ของการถือศาสนา สืบต่อไป,",
+    "๐ คนสมัยวัตถุนิยมจัด นี้ ไม่รู้จักเสียเลย, หรือรู้จักผิดๆ เกี่ยวกับสีล,"
+  ],
+  "handwriting": [
+    { "text": "วิสาขบูชา (๓)", "ink": "blue", "location": "top-left", "confidence": 0.6, "note": "" },
+    { "text": "๑๗เม.ย.๐๘", "ink": "blue", "location": "top-left below title", "confidence": 0.3, "note": "date, very faint/uncertain" },
+    { "text": "BIA3.1/2 กล่อง 1", "ink": "pencil", "location": "top-left", "confidence": 0.6, "note": "archival reference mark" },
+    { "text": "[133]", "ink": "pencil", "location": "top-right", "confidence": 0.8, "note": "page number" }
+  ],
+  "main_text": "[ลายมือ น้ำเงิน] วิสาขบูชา (๓)  [ลายมือ น้ำเงิน] ๑๗เม.ย.๐๘\n[ลายมือ] BIA3.1/2 กล่อง 1  [ลายมือ] [133]\nหลักปฏิบัติ เกี่ยวกับ สีลวัตร\n๏ ทำไมจึงพูดเรื่องนี้ :\n๐ เพราะปรากฏว่า รักษาสีลจนตาย ก็ยังไม่มีสีล,\n๐ เพื่อปรับปรุงให้ดีขึ้น ทั้งที่ยังมงาย และไม่มงายแล้ว ก็ตาม,\n๐ เพื่อเป็นรากฐานที่ดี ของการถือศาสนา สืบต่อไป,\n๐ คนสมัยวัตถุนิยมจัด นี้ ไม่รู้จักเสียเลย, หรือรู้จักผิดๆ เกี่ยวกับสีล,",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.78,
+  "needs_review": true,
+  "warnings": ["handwritten date in blue ink at top-left is very faint and uncertain"]
+}
