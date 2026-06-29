@@ -1,0 +1,22 @@
+{
+  "itemId": "cf207827-1200-5baf-ac5d-3430a84ba0aa",
+  "referenceCode": "BIA04010001-0010_0000-01",
+  "page": 180,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "diary_entry",
+  "header": { "ref_note": "[๑๘๐] มุมขวาบน", "date_th": "", "time": "", "location": "", "page_mark": "[๑๘๐]" },
+  "main_text": "อย่าง หอบฯ.   ปัญหา มีว่า ที่ บูชา จะอยู่\nตรงไหนดี   ในที่สุด ตกลง ทำเปนห้อง\nมีเฬพ อื่น ออกไปเรื่ฯจาก ตร เรื่อน เนื่อว่า\nอยู่ ใน พระพุทธรูป อยู่ได้ถม. แปลน คร่าวๆ\nจึงมี ดังนี้                            ชั้นล่าง, ดูลง\nมาทาง ข้าง ใน :-\n\n[แผนผังอาคาร: ผังพื้นชั้นล่าง วาดด้วยลายเส้น แสดงห้องเรียงต่อกัน — ห้องบน(กลางบน), ห้องฯ, ๑๐๐ฯ, ใหฯ, โบ๊ะฯ, ๑๓๐๐ฯ; มุมล่างซ้าย 'ห้องผ่าน้องๆ แลฯ น้ำใส', มุมล่างขวา 'ห้องผ่าน้องๆ แลฯ น้ำใส']\n\nรวม ประตู นอก ๔.\n           \" ใน\n           หน้าต่างฯ  ๑๔.",
+  "handwriting": [
+    { "text": "[๑๘๐]", "ink": "blue", "location": "top-right", "confidence": 0.85, "note": "page number" },
+    { "text": "แผนผังพื้นอาคารชั้นล่าง", "ink": "blue", "location": "center", "confidence": 0.5, "note": "ภาพวาดผังพื้นพร้อมป้ายกำกับห้อง" },
+    { "text": "รวม ประตู นอก ๔. ใน  หน้าต่างฯ ๑๔.", "ink": "blue", "location": "bottom", "confidence": 0.55, "note": "สรุปจำนวนประตู/หน้าต่าง" }
+  ],
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.4,
+  "needs_review": true,
+  "warnings": ["หน้านี้มีแผนผังอาคารวาดมือ ป้ายกำกับในผังอ่านยาก", "ตัวเลขจำนวนห้อง/ประตูบางส่วนคาดเดา"]
+}
