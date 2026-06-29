@@ -1,0 +1,56 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 190,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "handwritten_note",
+  "header": {
+    "ref_note": "BIA3.1/2 กล่อง1",
+    "title": "แบบ คร่อมชาติ x พระพุทธโฆษาจารย์. x ที่ เกี่ยว ของ.",
+    "page_mark": "[190]"
+  },
+  "outline": [
+    "แบบ คร่อมชาติ",
+    "x",
+    "พระพุทธโฆษาจารย์.",
+    "x",
+    "ที่ เกี่ยว ของ."
+  ],
+  "handwriting": [
+    {
+      "text": "BIA3.1/2 กล่อง1",
+      "ink": "pencil",
+      "location": "top-left",
+      "confidence": 0.55,
+      "note": "รหัสอ้างอิง"
+    },
+    {
+      "text": "[190]",
+      "ink": "pencil",
+      "location": "top-right",
+      "confidence": 0.85,
+      "note": "เลขหน้า"
+    },
+    {
+      "text": "แบบ คร่อมชาติ x พระพุทธโฆษาจารย์. x ที่ เกี่ยว ของ.",
+      "ink": "blue",
+      "location": "center",
+      "confidence": 0.78,
+      "note": "หัวเรื่องลายมือตัวใหญ่ หมึกน้ำเงิน/ดำ มีเครื่องหมาย x คั่นระหว่างบรรทัด"
+    }
+  ],
+  "main_text": "[ลายมือ] BIA3.1/2 กล่อง1\t[190]\n[ลายมือ] แบบ คร่อมชาติ\nx\nพระพุทธโฆษาจารย์.\nx\nที่ เกี่ยว ของ.",
+  "language": [
+    "th"
+  ],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.7,
+  "needs_review": true,
+  "warnings": [
+    "การ์ดหัวเรื่องลายมือ",
+    "มีเงาตัวพิมพ์ดีดทะลุจากด้านหลังกระดาษ (show-through) ไม่ถอดความ"
+  ]
+}
