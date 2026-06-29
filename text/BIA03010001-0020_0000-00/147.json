@@ -1,0 +1,25 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 147,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": { "ref_note": "BIA 3.1/2 กล่อง1", "title": "สรุปความ ปฏิบัติ มรรคมีองค์แปด – วิสุทธิ์เจ็ด – สิกขาสาม.", "page_mark": "[147]" },
+  "outline": [
+    "สรุปความ ปฏิบัติ มรรคมีองค์แปด – วิสุทธิ์เจ็ด – สิกขาสาม."
+  ],
+  "handwriting": [
+    { "text": "BIA 3.1/2 กล่อง1", "ink": "pencil", "location": "top center", "confidence": 0.5, "note": "หมายเลขอ้างอิงเขียนด้วยมือ มีแถบดำทับ" },
+    { "text": "?", "ink": "red", "location": "below title, full width", "confidence": 0.1, "note": "บรรทัดหมึกแดงใต้หัวเรื่อง เป็นรอยซึมทะลุจากด้านหลัง (กลับด้านซ้ายขวา) อ่านไม่ออก" },
+    { "text": "?", "ink": "red", "location": "bottom right", "confidence": 0.1, "note": "ลายมือหมึกแดงมุมล่างขวา เป็นรอยซึมทะลุกลับด้านจากหน้าหลัง อ่านไม่ออก" }
+  ],
+  "main_text": "สรุปความ ปฏิบัติ มรรคมีองค์แปด – วิสุทธิ์เจ็ด – สิกขาสาม.\n[ลายมือ] BIA 3.1/2 กล่อง1\n[ลายมือ หมึกแดง อ่านไม่ออก ?]",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.45,
+  "needs_review": true,
+  "warnings": ["หน้านี้เกือบว่าง มีแต่หัวเรื่อง", "มีรอยข้อความซึมทะลุจากด้านหลัง (กลับด้านซ้ายขวา) ทั้งสีน้ำเงินและแดง อ่านไม่ได้ ไม่ถอด", "ลายมือหมึกแดงด้านล่างกลับด้าน อ่านไม่ออก"]
+}

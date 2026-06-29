@@ -1,0 +1,24 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 146,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": { "ref_note": "BIA3.1/2 กล่อง1", "title": "สิกขา สาม", "page_mark": "[146]" },
+  "outline": [
+    "อธิสีลสิกขา    อธิจิตตสิกขา    อธิปัญญาสิกขา.",
+    "๒ เคล็ดปฏิบัติอย่างไร จะมีไตรสิกขา ง่ายๆ อย่างว่า ไม่ต้องปฏิบัติ อะไรเลย."
+  ],
+  "handwriting": [
+    { "text": "BIA3.1/2 กล่อง1", "ink": "pencil", "location": "top center", "confidence": 0.5, "note": "หมายเลขอ้างอิงเขียนด้วยมือ มีแถบดำทับ" }
+  ],
+  "main_text": "สิกขา สาม\n[ลายมือ] BIA3.1/2 กล่อง1\nอธิสีลสิกขา อธิจิตตสิกขา อธิปัญญาสิกขา.\n๒ เคล็ดปฏิบัติอย่างไร จะมีไตรสิกขา ง่ายๆ อย่างว่า ไม่ต้องปฏิบัติ อะไรเลย.",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.85,
+  "needs_review": false,
+  "warnings": ["หน้านี้มีเนื้อหาน้อย ส่วนล่างว่างเปล่า"]
+}
