@@ -1,0 +1,5 @@
+# นำขึ้น GitHub เฉพาะ text/ และ manifest.csv
+raw/
+samples/
+logs/
+proc/
