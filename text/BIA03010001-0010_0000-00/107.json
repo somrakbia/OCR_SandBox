@@ -1,0 +1,28 @@
+{
+  "itemId": "e41ca5da-00a1-5260-83f6-573ed29ea2a3",
+  "referenceCode": "BIA03010001-0010_0000-00",
+  "page": 107,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "card_topic_list",
+  "header": { "ref_note": "BIA 3.1/1 กล่อง 1", "title": "", "page_mark": "[107]" },
+  "table": {
+    "columns": ["ลำดับ/วันที่", "วันที่", "หัวข้อ"],
+    "rows": [
+      { "no": "86/22", "date": "22 ตค.", "topic": "" },
+      { "no": "87/23", "date": "23 ตค.", "topic": "" },
+      { "no": "88/24", "date": "24 ตค.", "topic": "" },
+      { "no": "89/25", "date": "25 ตค.", "topic": "" },
+      { "no": "90/26", "date": "26 ตค.", "topic": "ปวารณา คือ การปิดบาก \"ตัวกู–ของกูฯ ออกพรรษาแล้ว" }
+    ]
+  },
+  "handwriting": [],
+  "main_text": "BIA 3.1/1 กล่อง 1   [107]\n86/22 ตค.\n87/23 ตค.\n88/24 ตค.\n89/25 ตค.\n90/26 ตค. ปวารณา คือ การปิดบาก \"ตัวกู–ของกูฯ\nออกพรรษาแล้ว",
+  "language": ["th"],
+  "has_handwriting": false,
+  "handwriting_skipped": false,
+  "confidence": 0.85,
+  "needs_review": false,
+  "warnings": ["typed list; only last row (90/26) carries a topic", "the word 'ปิดบาก' is as typed; possibly intended 'ปิดปาก'"]
+}

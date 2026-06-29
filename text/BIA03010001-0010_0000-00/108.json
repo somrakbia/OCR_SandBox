@@ -1,0 +1,32 @@
+{
+  "itemId": "e41ca5da-00a1-5260-83f6-573ed29ea2a3",
+  "referenceCode": "BIA03010001-0010_0000-00",
+  "page": 108,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": { "ref_note": "BIA 3.1/1 กล่อง 1", "title": "เรื่องรีบด่วนทางธรรม", "page_mark": "[108]" },
+  "outline": [
+    "ความว่างจากตัวกู คือความพักผ่อน",
+    "วันที่แล้วมา : ความพักผ่อนทางวิญญาณ ตั้งต้นจากในป่า, ศาสตร์ทั้งหลาย ตั้งต้นจากในป่า มาเจริญในเมือง.",
+    ".... .... ....",
+    "ความพักผ่อนทางวิญญาณ คืออะไร ?",
+    "คำว่า ทางกาย –ทางจิต –ทางวิญญาณ (ต้องเข้าใจให้ดี)",
+    "ความพักผ่อนทางวิญญาณ มีได้โดยวิธีใด ?",
+    "โดย ขจัด ความหมายมั่น ที่เป็นตัวกูของกู ออกไปเสีย.",
+    "การกระทำเหมือนกัน เป็นได้ทั้งการพักผ่อน และการทรมานวิญญาณ",
+    "การกีฬา, การกินอาหาร, การเที่ยวเล่น, งานหนัก, การนอน,"
+  ],
+  "handwriting": [
+    { "text": "สาม", "ink": "red", "location": "upper right above date", "confidence": 0.55, "note": "red ink word 'สาม' (three) written above the struck-through 'สีสาม'" },
+    { "text": "สีสาม/", "ink": "blue", "location": "upper right, date line, struck through", "confidence": 0.4, "note": "struck-through; reads like 'สีสาม' corrected to 'สาม' in red" }
+  ],
+  "main_text": "BIA 3.1/1 กล่อง 1   [108]\nเรื่องรีบด่วนทางธรรม      [ลายมือ red: สาม]  สีสาม/ 7สค.12\nความว่างจากตัวกู คือความพักผ่อน\nวันที่แล้วมา : ความพักผ่อนทางวิญญาณ ตั้งต้นจากในป่า,\n  ศาสตร์ทั้งหลาย ตั้งต้นจากในป่า มาเจริญในเมือง.\n.... .... ....\nความพักผ่อนทางวิญญาณ คืออะไร ?\n  คำว่า ทางกาย –ทางจิต –ทางวิญญาณ (ต้องเข้าใจให้ดี)\nความพักผ่อนทางวิญญาณ มีได้โดยวิธีใด ?\n  โดย ขจัด ความหมายมั่น ที่เป็นตัวกูของกู ออกไปเสีย.\n  การกระทำเหมือนกัน เป็นได้ทั้งการพักผ่อน และการทรมานวิญญาณ\n  การกีฬา, การกินอาหาร, การเที่ยวเล่น, งานหนัก, การนอน,",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.7,
+  "needs_review": true,
+  "warnings": ["typed page, top two-thirds fairly legible; lower third blank with faint show-through", "date-line correction in red/blue ink ('สีสาม' -> 'สาม') uncertain", "text appears to continue on another page (sentence ends mid-list)"]
+}
