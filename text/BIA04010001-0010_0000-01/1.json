@@ -1,0 +1,20 @@
+{
+  "itemId": "cf207827-1200-5baf-ac5d-3430a84ba0aa",
+  "referenceCode": "BIA04010001-0010_0000-01",
+  "page": 1,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "diary_entry",
+  "header": { "ref_note": "ปก: ๑๔๓/๒๐ ; โรงพิมพ์เตปาจารย์", "date_th": "", "time": "", "location": "", "page_mark": "๑.-" },
+  "main_text": "ปัญญา\nสนฺติ ปญฺญา สมาคมา\nแสงใดในโลกไม่เท่าแสงแห่งปัญญา ปัญญาจะดีต้องมีวิชา\nโรงเรียน...........\nชื่อ...........ชั้น...........\nสำหรับวิชา...........\nโรงพิมพ์เตปาจารย์",
+  "handwriting": [
+    { "text": "อ.ก.ค.-๑/๑ (๑๔๓ หน้า) ๑.-", "ink": "blue", "location": "top", "confidence": 0.4, "note": "รหัสมุมบนและเลขหน้า" }
+  ],
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.5,
+  "needs_review": true,
+  "warnings": ["หน้าปกสมุด ส่วนใหญ่เป็นข้อความพิมพ์ มีลายมือเฉพาะมุมบน", "ชื่อตราสัญลักษณ์อ่านไม่ชัด"]
+}
