@@ -1,0 +1,22 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 280,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "handwritten_note",
+  "header": { "ref_note": "BIA3.1/2 กล่อง 1", "title": "ปัญหา ธรรมทูต.", "page_mark": "[280]" },
+  "outline": [],
+  "handwriting": [
+    { "text": "ปัญหา ธรรมทูต.", "ink": "blue", "location": "top-center, หัวบัตรตัวใหญ่", "confidence": 0.85, "note": "หัวข้อบัตรหมึกน้ำเงิน/ดำ ตัวบรรจง" },
+    { "text": "หัวข้อบรรยาย แก่ ธรรมทูต รุ่น ๒๕๑๔", "ink": "blue", "location": "lower line, ใต้หัวข้อ", "confidence": 0.55, "note": "บรรทัดล่าง ปีอาจเป็น ๒๕๑๔ (เลขท้ายอ่านไม่ชัด)" }
+  ],
+  "main_text": "BIA3.1/2 กล่อง 1 [280]\n[ลายมือ] ปัญหา ธรรมทูต. [/ลายมือ]\n[ลายมือ] หัวข้อบรรยาย แก่ ธรรมทูต รุ่น ๒๕๑๔ [/ลายมือ]",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.6,
+  "needs_review": true,
+  "warnings": ["บัตรเป็นแถบแคบ (น่าจะเป็นหน้าปก/สันบัตรชุด) เป็นลายมือทั้งหมด", "ปี พ.ศ. ท้ายบรรทัดอ่านไม่ชัด ตีความเป็น ๒๕๑๔ ตามบริบทชุดเอกสาร"]
+}
