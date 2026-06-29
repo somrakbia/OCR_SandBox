@@ -1,0 +1,24 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 227,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "handwritten_note",
+  "header": { "ref_note": "BIA 3.1/2 กล่อง๑", "title": "หัวข้อบรรยาย แก่ นักเรียน เทพศิรินทร์ สองลา", "page_mark": "[227]" },
+  "outline": [],
+  "handwriting": [
+    { "text": "หัวข้อบรรยาย แก่ นักเรียน เทพศิรินทร์ สองลา", "ink": "blue", "location": "บนสุด", "confidence": 0.6, "note": "บรรทัดหัวเรื่อง ลายมือหมึกน้ำเงิน; คำท้าย \"สองลา\" ไม่แน่ใจ" },
+    { "text": "\"สามเณร ตำปริว้\"", "ink": "blue", "location": "กลางหน้า ตัวใหญ่", "confidence": 0.4, "note": "ลายมือตัวใหญ่ในเครื่องหมายคำพูด อ่านได้ไม่แน่ชัด อาจเป็น \"สามเณร ตำบริว\"/\"ตำปริว้\"" },
+    { "text": "บ๕๑๔.", "ink": "blue", "location": "มุมล่างซ้าย", "confidence": 0.4, "note": "อาจเป็นเลขหน้า/เลขลำดับ ๒๕๑๔ หรือ บ๕๑๔ อ่านไม่ชัด" },
+    { "text": "BIA 3.1/2 กล่อง๑", "ink": "pencil", "location": "บนกลาง", "confidence": 0.45, "note": "รหัสกล่อง" }
+  ],
+  "main_text": "[ลายมือ blue: หัวข้อบรรยาย แก่ นักเรียน เทพศิรินทร์ สองลา] [ลายมือ pencil: BIA 3.1/2 กล่อง๑] [227]\n[ลายมือ blue ตัวใหญ่: \"สามเณร ตำปริว้\"]\n[ลายมือ blue: บ๕๑๔.]",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.45,
+  "needs_review": true,
+  "warnings": ["หน้านี้เป็นบัตรหัวเรื่องลายมือล้วน", "คำกลางหน้าตัวใหญ่ \"สามเณร ตำปริว้\" อ่านได้ไม่ชัด ?", "เลขมุมล่างซ้ายอ่านไม่ชัด ?"]
+}
