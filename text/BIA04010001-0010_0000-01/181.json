@@ -1,0 +1,21 @@
+{
+  "itemId": "cf207827-1200-5baf-ac5d-3430a84ba0aa",
+  "referenceCode": "BIA04010001-0010_0000-01",
+  "page": 181,
+  "engine": "claude-opus-4-8 (vision, in-chat)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "diary_entry",
+  "header": { "ref_note": "", "date_th": "", "time": "", "location": "", "page_mark": "[๑๘๑]" },
+  "main_text": "[แผนผังวาดมือ] เพลนชั้นบน, เรือน ๑ หลัง ตลกทั้งบาน:\nความกว้างแบ่งเป็น ๓½ ม. + ๓½ ม. + ๔ ม. + ๓½ ม. + ๓½ ม. = ๑๘ ม.\nความลึก ๓ ม. + ๖ ม. = ๙ ม.\nแบ่งเป็น ๕ ห้อง (มีภาพเตียง/ที่นั่งในห้องริมสองข้าง)\nประตู ... / หน้าต่าง ๑๔\n[ครึ่งบนมีรอยลายมือจาง/หมึกซึมทะลุจากด้านหลัง อ่านไม่ออก]",
+  "handwriting": [
+    { "text": "แผนผังพื้นอาคารชั้นบน เรือน ๑ หลัง (ผังวาดมือ ๕ ห้อง)", "ink": "blue", "location": "กลางหน้า", "confidence": 0.55 },
+    { "text": "ขนาด ๑๘ x ๙ ม. ; หน้าต่าง ๑๔", "ink": "blue", "location": "ใต้ผัง", "confidence": 0.5 }
+  ],
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.45,
+  "needs_review": true,
+  "warnings": ["หน้านี้เป็นแผนผังอาคารวาดมือ (ต่อจากผังชั้นล่างหน้า 180)", "ครึ่งบนมีหมึกซึมทะลุจากด้านหลัง อ่านไม่ได้"]
+}
