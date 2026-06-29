@@ -1,0 +1,29 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 102,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "handwritten_note",
+  "header": { "ref_note": "BIA3.1/2 กล่อง1", "title": "เตกิจฉกธรรม", "page_mark": "[102]" },
+  "outline": [],
+  "handwriting": [
+    { "text": "เตกิจฉกธรรม.", "ink": "blue", "location": "แถบกระดาษติดขอบบน (สันแฟ้ม)", "confidence": 0.85, "note": "ชื่อชุดเขียนบนแถบกระดาษติดเย็บมุดด้านบน" },
+    { "text": "หัวข้อบรรยาย", "ink": "pencil", "location": "บนสุดกลางหน้า", "confidence": 0.8, "note": "" },
+    { "text": "เตกิจฉกธรรม.", "ink": "pencil", "location": "กลางหน้า", "confidence": 0.85, "note": "" },
+    { "text": "(๑๕ ครั้ง)", "ink": "pencil", "location": "ใต้ชื่อชุด", "confidence": 0.8, "note": "" },
+    { "text": "๓๐ มี.ค. - ๑๕ เมย. ๒๕๑๔", "ink": "pencil", "location": "กลางหน้า", "confidence": 0.75, "note": "ช่วงวันที่บรรยาย" },
+    { "text": "หินโค้ง", "ink": "pencil", "location": "กลางหน้า", "confidence": 0.7, "note": "สถานที่" },
+    { "text": "04.30 น.", "ink": "pencil", "location": "ใต้คำว่าหินโค้ง", "confidence": 0.85, "note": "เวลา" },
+    { "text": "แก่ นิสิตวิชาแพทยศาสตร ปี ที่ ๒(?)", "ink": "pencil", "location": "ส่วนล่าง", "confidence": 0.55, "note": "อ่านปีไม่ชัด" },
+    { "text": "ของ มหาวิทยาลัย มหิดล ก.ท.", "ink": "pencil", "location": "ล่างสุด", "confidence": 0.7, "note": "ก.ท. = กรุงเทพฯ" }
+  ],
+  "main_text": "BIA3.1/2 กล่อง1   [102]\n[ลายมือ] เตกิจฉกธรรม.\n[ลายมือ] หัวข้อบรรยาย\n[ลายมือ] เตกิจฉกธรรม.\n[ลายมือ] (๑๕ ครั้ง)\n[ลายมือ] ๓๐ มี.ค. - ๑๕ เมย. ๒๕๑๔\n[ลายมือ] หินโค้ง\n[ลายมือ] 04.30 น.\n[ลายมือ] แก่ นิสิตวิชาแพทยศาสตร ปี ที่ ๒(?)\n[ลายมือ] ของ มหาวิทยาลัย มหิดล ก.ท.",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.7,
+  "needs_review": true,
+  "warnings": ["หน้าปกชุดบรรยายเขียนด้วยลายมือ (ดินสอ) ทั้งหน้า ปีที่ของนิสิตอ่านไม่ชัด", "ด้านหลังมีเงาตัวพิมพ์ทะลุผ่านกระดาษ (bleed-through) ไม่ใช่เนื้อหาหน้านี้"]
+}

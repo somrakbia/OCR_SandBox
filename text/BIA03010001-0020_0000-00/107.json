@@ -1,0 +1,21 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 107,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": { "ref_note": "BIA 3.1/2 กล่อง 1  โลกุเตกิจฉกธรรม (๓)  ๑ เมย. ๑๔", "title": "อาการโรคของของไข้แห่งอวิชชา", "page_mark": "[107]" },
+  "outline": [
+    "อาการโรคของของไข้แห่งอวิชชา"
+  ],
+  "handwriting": [],
+  "main_text": "BIA 3.1/2 กล่อง 1   [107]\nโลกุเตกิจฉกธรรม (๓)\n๑ เมย. ๑๔\nอาการโรคของของไข้แห่งอวิชชา",
+  "language": ["th"],
+  "has_handwriting": false,
+  "handwriting_skipped": false,
+  "confidence": 0.78,
+  "needs_review": false,
+  "warnings": ["หน้านี้มีเฉพาะหัวข้อบนหน้า เนื้อหาที่เหลือว่างเปล่า (หน้าขึ้นต้นบทใหม่)", "ส่วนล่างของหน้ามีเงาตัวพิมพ์ทะลุจากหน้าหลัง (bleed-through กลับด้าน) ไม่ใช่เนื้อหาหน้านี้ จึงไม่ถอด"]
+}

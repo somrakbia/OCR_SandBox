@@ -1,0 +1,21 @@
+{
+  "itemId": "25d59701-c7e9-51b9-a0b8-f9498154a7d9",
+  "referenceCode": "BIA03010001-0020_0000-00",
+  "page": 106,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": { "ref_note": "กล่อง 3.1/2 กล่อง 1  โลกุเตกิจฉกธรรม (๒)  ๓๐ มี.ค. ๑๔", "title": "สัตวโลกทั้งปวงเป็นคนไข้ของอวิชชา.", "page_mark": "[106]" },
+  "outline": [
+    "สัตวโลกทั้งปวงเป็นคนไข้ของอวิชชา."
+  ],
+  "handwriting": [],
+  "main_text": "กล่อง 3.1/2 กล่อง 1   [106]\nโลกุเตกิจฉกธรรม (๒)\n๓๐ มี.ค. ๑๔\nสัตวโลกทั้งปวงเป็นคนไข้ของอวิชชา.",
+  "language": ["th"],
+  "has_handwriting": false,
+  "handwriting_skipped": false,
+  "confidence": 0.82,
+  "needs_review": false,
+  "warnings": ["หน้านี้มีเฉพาะหัวข้อบนหน้า ส่วนเนื้อหาที่เหลือว่างเปล่า (หน้าขึ้นต้นบทใหม่)"]
+}
