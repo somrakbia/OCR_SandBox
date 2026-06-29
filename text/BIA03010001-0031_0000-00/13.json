@@ -1,0 +1,22 @@
+{
+  "itemId": "440de92a-f92f-5c08-9915-ba14960f4c04",
+  "referenceCode": "BIA03010001-0031_0000-00",
+  "page": 13,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "other",
+  "header": { "ref_note": "", "title": "", "page_mark": "13" },
+  "outline": [],
+  "handwriting": [
+    { "text": "(พลตรี?) เปา?ฯ", "ink": "blue", "location": "top-left", "confidence": 0.2, "note": "ลายมือมุมบนซ้าย เลอะ อ่านยาก" },
+    { "text": "ข้อที่ ๑ เพราะว่าผู้ ... ตามแต่ที่ ... จึงไม่อาจ ... ดอกเบี้ย สอนไม่ได้ตามนั้น ดอกเป็น ... ของผู้ใหญ่", "ink": "blue", "location": "top-right", "confidence": 0.2, "note": "ข้อความลายมือหลายบรรทัดที่มุมบนขวา เอียง อ่านได้ไม่ครบ" }
+  ],
+  "main_text": "[หน้านี้ถ่ายกลับหัว เป็นจดหมายธุรกิจพิมพ์ดีดภาษาอังกฤษจาก DIETHELM TRAVEL]\n[ลายมือ blue บนซ้าย] (พลตรี?) เปา?ฯ\n[ลายมือ blue บนขวา] ข้อที่ ๑ เพราะว่าผู้ ... จึงไม่อาจ ... ดอกเบี้ย สอนไม่ได้ตามนั้น ดอกเป็น ... ของผู้ใหญ่\n\nBangkok 1st December 1977\nDear Madam,\nThis time the TRAVEL NEWS FROM DIETHELM TRAVEL OFFICE are presented to you in a different form. As you have probably read in the newspapers, DIETHELM TRAVEL has been appointed General Sales Agent of KD GERMAN RHINE LINE, operators of the FIRST CLASS RHINE CRUISES Holland-Switzerland.\nEnclosed is a folder of DIETHELM TRAVEL'S NEW HOLIDAY SPECIAL, with description of those marvellous four country cruises. Their frequent departures make them easily combinable with any trip to or through Europe.\nIf you are among the lucky ones, who do you leave next year, call us for this 1978 catalogue with all sailing dates and fares, or so will make the most out of it. ... \nWith Christmas at our doorstep, accompanied by the nice tradition of presenting one's friends with gifts, we wish to give you something too - something special even - the pleasure to look forward to exciting new travel adventures.\nWith our best wishes for the festive season.\nSincerely yours,\nDIETHELM TRAVEL OFFICE\nA.F. Becker\n[ข้ามแถบ caption/ลายน้ำขอบล่าง KD information]",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.35,
+  "needs_review": true,
+  "warnings": ["หน้าถ่ายกลับหัว (upside down)", "ลายมือมุมบนเลอะ อ่านยาก confidence ต่ำ", "เนื้อหาหลักเป็นจดหมายภาษาอังกฤษ ไม่ใช่ภาษาไทย แต่มีลายมือไทย"]
+}
