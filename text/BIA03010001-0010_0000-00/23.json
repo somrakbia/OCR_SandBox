@@ -1,0 +1,22 @@
+{
+  "itemId": "e41ca5da-00a1-5260-83f6-573ed29ea2a3",
+  "referenceCode": "BIA03010001-0010_0000-00",
+  "page": 23,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "other",
+  "header": { "ref_note": "BIA 3.1/1 กล่อง 1", "title": "ตุลาการ 2512", "page_mark": "[23]" },
+  "outline": [],
+  "handwriting": [
+    { "text": "BIA 3.1/1 กล่อง 1", "ink": "pencil", "location": "top-left", "confidence": 0.65, "note": "รหัสอ้างอิง" },
+    { "text": "ตุลาการ 2512.", "ink": "blue", "location": "กลางหน้าบน", "confidence": 0.85, "note": "หัวข้อหมวดเขียนตัวโต ปากกาหมึกน้ำเงิน" }
+  ],
+  "main_text": "[ลายมือ] BIA 3.1/1 กล่อง 1                                              [23]\n[ลายมือ น้ำเงิน] ตุลาการ 2512.\n\nตุลาการ 2512",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.85,
+  "needs_review": false,
+  "warnings": ["หน้าคั่นหมวด/ปกย่อย มีข้อความน้อย", "ข้ามแถบ caption ที่ขอบล่าง"]
+}
