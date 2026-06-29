@@ -1,0 +1,25 @@
+{
+  "itemId": "440de92a-f92f-5c08-9915-ba14960f4c04",
+  "referenceCode": "BIA03010001-0031_0000-00",
+  "page": 34,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": { "ref_note": "BIA 3.1/3 (?/?) กกอ๑", "title": "พ. วิทยาศาสตร", "page_mark": "[34]" },
+  "outline": [
+    "ภาวะคนต่างๆทางจิต ที่ต้องวิเคราะห์ (ต่อ).",
+    "(๓) เชื่อมวรชน, หรือ การโฆษณา.",
+    "ก. โฆษณาด้วยเอกาวรือยิ่งบ้านนอกกล็นบฺฺฺฺฺฺ = โฆษณาเกินตา,"
+  ],
+  "handwriting": [
+    { "text": "ผู้รวบ มงครีศ", "ink": "pencil", "location": "ล่างซ้าย", "confidence": 0.2, "note": "ลายมือดินสอ ซีดมาก อ่านยาก" }
+  ],
+  "main_text": "BIA 3.1/3 (?/?) กกอ๑   พ. วิทยาศาสตร [34]\nภาวะคนต่างๆทางจิต ที่ต้องวิเคราะห์ (ต่อ).\n(๓) เชื่อมวรชน, หรือ การโฆษณา.\nก. โฆษณาด้วยเอกาวรือยิ่งบ้านนอกกล็นบฺฺฺฺฺฺ = โฆษณาเกินตา,\n[ลายมือ: ผู้รวบ มงครีศ]",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.4,
+  "needs_review": true,
+  "warnings": ["sparse page, mostly blank below; faded typewriting", "key line partly illegible", "faint pencil handwriting at bottom"]
+}

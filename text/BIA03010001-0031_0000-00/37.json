@@ -1,0 +1,23 @@
+{
+  "itemId": "440de92a-f92f-5c08-9915-ba14960f4c04",
+  "referenceCode": "BIA03010001-0031_0000-00",
+  "page": 37,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": { "ref_note": "BIA 3.1/3 (?/?) กกอ๑   ๒๓.   สฺปฺ.๑/๔สฺมฺ.๔", "title": "อิทัปฯ ในฐานะวิชา หรือศาสตร์ทั้งมวง ของโลก.", "page_mark": "[37]" },
+  "outline": [
+    "อิทัปฯ ในฐานะวิชา หรือศาสตร์ทั้งมวง ของโลก.",
+    "๑. ขามฺยฺตเชี่ยมความ = ขุมามฺหฺา วา ลิยฺฺเฺนๆ ฺฺฺขฺาฺ (ดูตัวข้อครั้งที่ ๑)",
+    "๑. ฺฺฺ. ฺฺฺขฺฺุขฺฺูมฺฺู = ตถตา-อวิทยตา-ธมมุปูตตา-อิทัปปุจยตา"
+  ],
+  "handwriting": [],
+  "main_text": "BIA 3.1/3 (?/?) กกอ๑   ๒๓.   สฺปฺ.๑/๔สฺมฺ.๔   [37]\nอิทัปฯ ในฐานะวิชา หรือศาสตร์ทั้งมวง ของโลก.\n๑. ขามฺยฺตเชี่ยมความ = ขุมามฺหฺา วา ลิยฺฺเฺนๆ ฺฺฺขฺาฺ (ดูตัวข้อครั้งที่ ๑)\n๑. ฺฺฺ. ฺฺฺขฺฺุขฺฺูมฺฺู = ตถตา-อวิทยตา-ธมมุปูตตา-อิทัปปุจยตา",
+  "language": ["th", "pi"],
+  "has_handwriting": false,
+  "handwriting_skipped": false,
+  "confidence": 0.3,
+  "needs_review": true,
+  "warnings": ["mostly blank page, only a few faded typewritten lines at top", "text heavily faded, several words illegible"]
+}

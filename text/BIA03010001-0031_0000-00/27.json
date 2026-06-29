@@ -1,0 +1,26 @@
+{
+  "itemId": "440de92a-f92f-5c08-9915-ba14960f4c04",
+  "referenceCode": "BIA03010001-0031_0000-00",
+  "page": 27,
+  "engine": "claude (vision, subagent)",
+  "ocrVersion": 2,
+  "transcribe_all": true,
+  "doc_type": "lecture_outline",
+  "header": { "ref_note": "BIA 3.1/3 (?/?)/กกอ๑", "title": "พุทธธรรม", "page_mark": "[27]" },
+  "outline": [
+    "๑. พุทธธรรม ไม่ใช่ philosophy ปรัชญา อย่างตรงๆออก",
+    "๒. พุทธธรรม เป็น วิทยาศาสตร ธรรมชาติ"
+  ],
+  "handwriting": [
+    { "text": "(ตามชีวิต-จิตน่าจัก)", "ink": "blue", "location": "ขวาบนข้อ ๑", "confidence": 0.4, "note": "ลายมือกำกับ อ่านยาก" },
+    { "text": "ธรรม? ลักษณะ, สากุพา", "ink": "blue", "location": "ขวาข้อ ๒", "confidence": 0.35, "note": "ลายมือ ซีด" },
+    { "text": "อกาลิกๆ\nเอหิปสฺสิๆ\nโอปนยิๆ\nปจฺจตฺตํ เวทิ-", "ink": "blue", "location": "ขวาล่างข้อ ๒", "confidence": 0.4, "note": "รายการคุณของธรรม ลายมือ" }
+  ],
+  "main_text": "BIA 3.1/3 (?/?)/กกอ๑   พุทธธรรม [27]\n๑. พุทธธรรม ไม่ใช่ philosophy [ลายมือ: (ตามชีวิต-จิตน่าจัก)] ปรัชญา อย่างตรงๆออก\n๒. พุทธธรรม เป็น วิทยาศาสตร ธรรมชาติ [ลายมือ: ธรรม? ลักษณะ, สากุพา] [ลายมือ: อกาลิกๆ / เอหิปสฺสิๆ / โอปนยิๆ / ปจฺจตฺตํ เวทิ-]",
+  "language": ["th"],
+  "has_handwriting": true,
+  "handwriting_skipped": false,
+  "confidence": 0.4,
+  "needs_review": true,
+  "warnings": ["typewritten title with faint handwritten annotations in blue ink, hard to read", "much of the page is very faint typewriting that is illegible"]
+}
